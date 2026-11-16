@@ -1,0 +1,452 @@
+[
+  {
+    "id": "apero-alcohol-daily-limit",
+    "category": "apero",
+    "prompt": "Combien de verres d'alcool par jour, au maximum, recommandent les autorités sanitaires françaises ?",
+    "answer": 2,
+    "unit": "count",
+    "fact": "Et pas tous les jours : le repère officiel plafonne aussi la semaine à 10 verres.",
+    "source": "Santé publique France"
+  },
+  {
+    "id": "apero-jeroboam",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de champagne classiques contient un jéroboam ?",
+    "answer": 4,
+    "unit": "count",
+    "fact": "À Bordeaux, le jéroboam est plus gourmand : il monte à 5 litres.",
+    "source": "Wein.plus"
+  },
+  {
+    "id": "apero-muselet-turns",
+    "category": "apero",
+    "prompt": "Combien de demi-tours faut-il pour défaire le petit grillage (le muselet) qui tient le bouchon du champagne ?",
+    "answer": 6,
+    "unit": "count",
+    "fact": "Ce petit grillage retient un bouchon poussé par une pression environ trois fois supérieure à celle d'un pneu de voiture.",
+    "source": "Wikipédia"
+  },
+  {
+    "id": "apero-standard-drink",
+    "category": "apero",
+    "prompt": "Combien de grammes d'alcool pur contient un « verre standard », celui des bars ?",
+    "answer": 10,
+    "unit": "count",
+    "fact": "Un demi de bière, un ballon de vin ou un petit verre de whisky : chacun apporte la même dose.",
+    "source": "Santé publique France"
+  },
+  {
+    "id": "apero-champagne-ageing",
+    "category": "apero",
+    "prompt": "Combien de mois au minimum un champagne classique, sans année sur l'étiquette, doit-il vieillir en cave ?",
+    "answer": 15,
+    "unit": "count",
+    "fact": "Pour un champagne d'une année précise (un millésimé), l'attente minimale passe à trois ans.",
+    "source": "Comité Champagne"
+  },
+  {
+    "id": "apero-nebuchadnezzar",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de 75 cl contient un nabuchodonosor ?",
+    "answer": 20,
+    "unit": "count",
+    "fact": "Plein, ce géant de 15 litres pèse près de 38 kg et remplit environ 120 flûtes.",
+    "source": "Vinatis"
+  },
+  {
+    "id": "apero-cheese-per-capita",
+    "category": "apero",
+    "prompt": "Combien de kilos de fromage un Français mange-t-il en moyenne par an ?",
+    "answer": 27.7,
+    "unit": "count",
+    "fact": "La France fait partie des plus gros mangeurs de fromage au monde, avec des centaines de fromages différents.",
+    "source": "CNIEL"
+  },
+  {
+    "id": "apero-coke-sugar",
+    "category": "apero",
+    "prompt": "Combien de grammes de sucre contient une canette de Coca-Cola de 33 cl ?",
+    "answer": 35,
+    "unit": "count",
+    "fact": "L'équivalent d'environ sept morceaux de sucre, avalés en quelques gorgées.",
+    "source": "Open Food Facts"
+  },
+  {
+    "id": "apero-longest-kiss",
+    "category": "apero",
+    "prompt": "Combien d'heures a duré le plus long baiser jamais homologué ?",
+    "answer": 58,
+    "unit": "count",
+    "fact": "Un couple thaïlandais, à Pattaya en 2013 ; Guinness a depuis retiré ce record, jugé trop dangereux.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-hot-dog-record",
+    "category": "apero",
+    "prompt": "Combien de hot-dogs Joey Chestnut a-t-il avalés en 10 minutes lors de son record de 2021 ?",
+    "answer": 76,
+    "unit": "count",
+    "fact": "Pains compris : le concours de Nathan's à Coney Island se tient chaque 4 juillet.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-longest-baguette",
+    "category": "apero",
+    "prompt": "Combien de mètres mesurait la plus longue baguette du monde, cuite à Suresnes en 2024 ?",
+    "answer": 140.53,
+    "unit": "count",
+    "fact": "Il a fallu 90 kg de farine pour reprendre le record aux Italiens.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-pint-calories",
+    "category": "apero",
+    "prompt": "Combien de calories contient une pinte (50 cl) de bière blonde classique ?",
+    "answer": 230,
+    "unit": "count",
+    "fact": "Plus qu'un croissant au beurre… et on en boit rarement une seule.",
+    "source": "ANSES (table Ciqual)"
+  },
+  {
+    "id": "apero-barrique",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de 75 cl peut-on remplir avec un tonneau de vin de Bordeaux (une barrique) ?",
+    "answer": 300,
+    "unit": "count",
+    "fact": "Sa taille vient du commerce avec les Anglais : elle fait environ 50 gallons impériaux.",
+    "source": "iDealwine"
+  },
+  {
+    "id": "apero-comte-milk",
+    "category": "apero",
+    "prompt": "Combien de litres de lait faut-il pour fabriquer une meule de comté ?",
+    "answer": 400,
+    "unit": "count",
+    "fact": "Soit la traite quotidienne d'une vingtaine de vaches montbéliardes.",
+    "source": "Comité interprofessionnel du comté"
+  },
+  {
+    "id": "apero-mouth-bacteria",
+    "category": "apero",
+    "prompt": "Combien d'espèces de bactéries différentes peuvent vivre dans la bouche humaine ?",
+    "answer": 700,
+    "unit": "count",
+    "fact": "Une bonne partie d'entre elles n'a encore jamais été cultivée en laboratoire.",
+    "source": "Human Oral Microbiome Database"
+  },
+  {
+    "id": "apero-sneezing-fit",
+    "category": "apero",
+    "prompt": "Combien de jours a duré la plus longue crise d'éternuements connue ?",
+    "answer": 976,
+    "unit": "count",
+    "fact": "La Britannique Donna Griffiths aurait éternué environ un million de fois rien que la première année.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-breath-hold",
+    "category": "apero",
+    "prompt": "Combien de secondes un Croate a-t-il retenu sa respiration, lors de son record de 2021 ?",
+    "answer": 1477,
+    "unit": "count",
+    "fact": "Budimir Šobat s'est mis à l'apnée à 48 ans et avait respiré de l'oxygène pur juste avant.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-belly-button",
+    "category": "apero",
+    "prompt": "Combien d'espèces de bactéries des chercheurs ont-ils trouvées dans les nombrils de 60 volontaires ?",
+    "answer": 2368,
+    "unit": "count",
+    "fact": "Plus de la moitié étaient peut-être inconnues de la science.",
+    "source": "PLOS ONE"
+  },
+  {
+    "id": "apero-heart-blood-volume",
+    "category": "apero",
+    "prompt": "Combien de litres de sang le cœur pompe-t-il chaque jour ?",
+    "answer": 7500,
+    "unit": "count",
+    "fact": "De quoi remplir une cinquantaine de baignoires.",
+    "source": "American Heart Association"
+  },
+  {
+    "id": "apero-words-per-day",
+    "category": "apero",
+    "prompt": "Combien de mots prononce-t-on en moyenne chaque jour ?",
+    "answer": 16000,
+    "unit": "count",
+    "fact": "Hommes et femmes font jeu égal : les trois plus grands bavards de l'étude étaient des hommes.",
+    "source": "Science"
+  },
+  {
+    "id": "apero-breaths-per-day",
+    "category": "apero",
+    "prompt": "Combien de fois respire-t-on en une journée ?",
+    "answer": 22000,
+    "unit": "count",
+    "fact": "Au repos, un adulte inspire de 12 à 20 fois par minute, sans y penser.",
+    "source": "Association pulmonaire du Canada"
+  },
+  {
+    "id": "apero-big-mac-lifetime",
+    "category": "apero",
+    "prompt": "Combien de Big Mac l'Américain Don Gorske avait-il mangés au total début 2024 ?",
+    "answer": 34128,
+    "unit": "count",
+    "fact": "Record Guinness : à 70 ans, il en mange encore deux par jour, sans frites.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-glass-pyramid",
+    "category": "apero",
+    "prompt": "Selon le Guinness World Records, combien de coupes de champagne formaient la plus grande pyramide de verres, montée en 2021 ?",
+    "answer": 54740,
+    "unit": "count",
+    "fact": "Haute de plus de 8 mètres, elle a demandé cinq jours de montage.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-heartbeats-per-day",
+    "category": "apero",
+    "prompt": "Combien de fois le cœur bat-il en une journée ?",
+    "answer": 100000,
+    "unit": "count",
+    "fact": "À chaque battement, il propulse environ 75 ml de sang.",
+    "source": "American Heart Association"
+  },
+  {
+    "id": "apero-biggest-omelette",
+    "category": "apero",
+    "prompt": "Combien d'œufs a-t-il fallu pour la plus grande omelette du monde, au Portugal en 2012 ?",
+    "answer": 145000,
+    "unit": "count",
+    "fact": "Plus de 6 tonnes, cuites dans une poêle de 10 mètres de diamètre.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-heidelberg-tun",
+    "category": "apero",
+    "prompt": "Combien de litres de vin peut contenir le Grand Tonneau du château de Heidelberg ?",
+    "answer": 219000,
+    "unit": "count",
+    "fact": "Il n'a jamais été vraiment étanche, et sa plateforme sert de piste de danse.",
+    "source": "Wikipédia"
+  },
+  {
+    "id": "apero-white-truffle",
+    "category": "apero",
+    "prompt": "Combien de dollars a été vendue la truffe blanche la plus chère de l'histoire, en 2007 ?",
+    "answer": 330000,
+    "unit": "count",
+    "fact": "La pépite d'environ 1,3 kg, déterrée près de Pise, est partie chez un magnat des casinos de Macao.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-romanee-conti",
+    "category": "apero",
+    "prompt": "Combien de dollars a été vendue aux enchères une bouteille de vin Romanée-Conti 1945, en 2018 ?",
+    "answer": 558000,
+    "unit": "count",
+    "fact": "Dix-sept fois l'estimation haute : seules 600 bouteilles de ce millésime ont été produites.",
+    "source": "Decanter"
+  },
+  {
+    "id": "apero-champagne-bubbles",
+    "category": "apero",
+    "prompt": "Combien de bulles se forment dans une flûte de champagne, jusqu'à ce qu'il ne pétille plus ?",
+    "answer": 1000000,
+    "unit": "count",
+    "fact": "On en annonçait autrefois 15 millions, avant qu'un physicien de Reims ne refasse le calcul.",
+    "source": "Université de Reims Champagne-Ardenne"
+  },
+  {
+    "id": "apero-wine-cellar",
+    "category": "apero",
+    "prompt": "Combien de bouteilles dort-il dans la plus grande cave à vin du monde, à Mileștii Mici en Moldavie ?",
+    "answer": 1500000,
+    "unit": "count",
+    "fact": "Elles reposent dans des dizaines de kilomètres de galeries creusées dans d'anciennes carrières de calcaire.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-pepper-x",
+    "category": "apero",
+    "prompt": "Combien d'unités Scoville, l'échelle du piquant, affiche le Pepper X, le piment le plus fort du monde ?",
+    "answer": 2693000,
+    "unit": "count",
+    "fact": "Un jalapeño plafonne à quelques milliers : c'est des centaines de fois moins.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-oktoberfest-beer",
+    "category": "apero",
+    "prompt": "Combien de litres de bière ont été servis à l'Oktoberfest 2024 ?",
+    "answer": 7000000,
+    "unit": "count",
+    "fact": "En chopes d'un litre, la fameuse Maß, pour 6,7 millions de visiteurs.",
+    "source": "Ville de Munich"
+  },
+  {
+    "id": "apero-beaujolais-nouveau",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de beaujolais nouveau ont été vendues dans le monde en 2024 ?",
+    "answer": 14300000,
+    "unit": "count",
+    "fact": "Le Japon en est le premier client à l'export, où on le débouche avant tout le monde grâce au décalage horaire.",
+    "source": "Inter Beaujolais"
+  },
+  {
+    "id": "apero-world-cup-final",
+    "category": "apero",
+    "prompt": "Combien de téléspectateurs en moyenne ont regardé la finale France–Argentine du Mondial 2022 sur TF1 ?",
+    "answer": 24080000,
+    "unit": "count",
+    "fact": "Record absolu de la télé française, avec un pic à 29,4 millions pendant les tirs au but.",
+    "source": "Médiamétrie"
+  },
+  {
+    "id": "apero-kiss-bacteria",
+    "category": "apero",
+    "prompt": "Combien de bactéries s'échangent lors d'un baiser de 10 secondes ?",
+    "answer": 80000000,
+    "unit": "count",
+    "fact": "Les couples qui s'embrassent au moins neuf fois par jour finissent par partager la même flore salivaire.",
+    "source": "Microbiome"
+  },
+  {
+    "id": "apero-provence-wine",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de vin de Provence sont produites chaque année ?",
+    "answer": 160000000,
+    "unit": "count",
+    "fact": "Près de neuf sur dix sont du rosé.",
+    "source": "Vins de Provence (CIVP)"
+  },
+  {
+    "id": "apero-champagne-shipments",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de champagne ont été expédiées dans le monde en 2024 ?",
+    "answer": 271400000,
+    "unit": "count",
+    "fact": "Un net recul : il s'en était vendu près de 28 millions de plus l'année précédente.",
+    "source": "Comité Champagne"
+  },
+  {
+    "id": "apero-lifetime-hiccups",
+    "category": "apero",
+    "prompt": "Combien de hoquets l'Américain Charles Osborne aurait-il eus au cours de sa vie ?",
+    "answer": 430000000,
+    "unit": "count",
+    "fact": "Sa crise a duré 68 ans, déclenchée en soulevant un cochon en 1922.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "apero-prosecco",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de prosecco, le vin pétillant italien, ont été produites en 2024 (appellation DOC) ?",
+    "answer": 660000000,
+    "unit": "count",
+    "fact": "C'est plus du double des bouteilles de champagne expédiées la même année.",
+    "source": "Consorzio Prosecco DOC"
+  },
+  {
+    "id": "apero-france-wine",
+    "category": "apero",
+    "prompt": "Combien de bouteilles de 75 cl de vin les Français ont-ils bues en 2024 ?",
+    "answer": 3070000000,
+    "unit": "count",
+    "fact": "La France reste le premier pays buveur de vin d'Europe, mais sa consommation baisse d'année en année.",
+    "source": "OIV"
+  },
+  {
+    "id": "apero-baguettes-per-year",
+    "category": "apero",
+    "prompt": "Combien de baguettes sont fabriquées chaque année en France ?",
+    "answer": 6000000000,
+    "unit": "count",
+    "fact": "Environ 190 par seconde ; son savoir-faire est inscrit au patrimoine immatériel de l'UNESCO depuis 2022.",
+    "source": "Observatoire du pain"
+  },
+  {
+    "id": "apero-german-beer",
+    "category": "apero",
+    "prompt": "Combien de litres de bière les brasseries allemandes ont-elles vendus en 2024 ?",
+    "answer": 8300000000,
+    "unit": "count",
+    "fact": "Même l'Euro de football organisé chez eux n'a pas empêché la baisse.",
+    "source": "Destatis"
+  },
+  {
+    "id": "apero-france-eggs",
+    "category": "apero",
+    "prompt": "Combien d'œufs la France a-t-elle produits en 2024 ?",
+    "answer": 15300000000,
+    "unit": "count",
+    "fact": "Premier producteur d'Europe, le pays en manque pourtant : chaque Français en mange plus de 220 par an.",
+    "source": "FranceAgriMer"
+  },
+  {
+    "id": "apero-world-wine",
+    "category": "apero",
+    "prompt": "Combien de litres de vin le monde a-t-il bus en 2024 ?",
+    "answer": 21420000000,
+    "unit": "count",
+    "fact": "La consommation mondiale n'avait pas été aussi basse depuis 1961.",
+    "source": "OIV"
+  },
+  {
+    "id": "apero-sponge-bacteria",
+    "category": "apero",
+    "prompt": "Jusqu'à combien de bactéries peut-on trouver dans un petit cube d'1 cm d'éponge de cuisine usagée ?",
+    "answer": 54000000000,
+    "unit": "count",
+    "fact": "Une densité comparable à celle des selles humaines ; la passer au micro-ondes ne règle rien sur la durée.",
+    "source": "Scientific Reports"
+  },
+  {
+    "id": "apero-world-grapes",
+    "category": "apero",
+    "prompt": "Combien de kilos de raisin ont été récoltés dans le monde en 2023 ?",
+    "answer": 74700000000,
+    "unit": "count",
+    "fact": "À peine plus de 40 % finissent en vin ; le reste se mange en grappes ou en raisins secs.",
+    "source": "OIV"
+  },
+  {
+    "id": "apero-instant-noodles",
+    "category": "apero",
+    "prompt": "Combien de portions de nouilles instantanées ont été mangées dans le monde en 2024 ?",
+    "answer": 123070000000,
+    "unit": "count",
+    "fact": "Plus d'un tiers rien qu'en Chine et à Hong Kong.",
+    "source": "World Instant Noodles Association"
+  },
+  {
+    "id": "apero-world-beer",
+    "category": "apero",
+    "prompt": "Combien de litres de bière ont été bus dans le monde en 2023 ?",
+    "answer": 187900000000,
+    "unit": "count",
+    "fact": "Les Tchèques restent les plus gros buveurs par habitant, depuis plus de 30 ans.",
+    "source": "Kirin"
+  },
+  {
+    "id": "apero-potatoes",
+    "category": "apero",
+    "prompt": "Combien de kilos de pommes de terre sont récoltés chaque année dans le monde ?",
+    "answer": 374800000000,
+    "unit": "count",
+    "fact": "La Chine et l'Inde en produisent à elles seules 40 %.",
+    "source": "FAO"
+  },
+  {
+    "id": "apero-household-food-waste",
+    "category": "apero",
+    "prompt": "Combien de kilos de nourriture les ménages du monde jettent-ils chaque année ?",
+    "answer": 631000000000,
+    "unit": "count",
+    "fact": "L'équivalent d'au moins un milliard de repas comestibles gaspillés chaque jour.",
+    "source": "PNUE"
+  }
+]

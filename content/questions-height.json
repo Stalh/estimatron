@@ -1,0 +1,452 @@
+[
+  {
+    "id": "height-cent-coin",
+    "category": "height",
+    "prompt": "Posée sur la tranche, quelle hauteur fait une pièce de 1 centime d'euro ?",
+    "answer": 0.01625,
+    "unit": "m",
+    "fact": "Elle coûte plus cher à fabriquer qu'elle ne vaut : la Finlande, la Belgique ou l'Italie arrondissent déjà les prix.",
+    "source": "Journal officiel de l'Union européenne"
+  },
+  {
+    "id": "height-hockey-puck",
+    "category": "height",
+    "prompt": "Posé à plat sur la glace, quelle hauteur fait un palet de hockey réglementaire ?",
+    "answer": 0.0254,
+    "unit": "m",
+    "fact": "Les palets sont congelés avant les matchs pour qu'ils rebondissent moins.",
+    "source": "NHL Official Rules"
+  },
+  {
+    "id": "height-golf-ball",
+    "category": "height",
+    "prompt": "Quel est le diamètre minimal d'une balle de golf réglementaire ?",
+    "answer": 0.04267,
+    "unit": "m",
+    "fact": "Ses 300 à 500 petits creux la font voler environ deux fois plus loin qu'une balle lisse.",
+    "source": "R&A / USGA, Règles du golf"
+  },
+  {
+    "id": "height-rubik",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'un Rubik's Cube classique ?",
+    "answer": 0.057,
+    "unit": "m",
+    "fact": "Il existe plus de 43 milliards de milliards de combinaisons possibles.",
+    "source": "Rubik's Brand Ltd"
+  },
+  {
+    "id": "height-banknote-20",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'un billet de 20 euros ?",
+    "answer": 0.072,
+    "unit": "m",
+    "fact": "Plus la valeur d'un billet en euros est grande, plus le billet est grand, pour aider les malvoyants.",
+    "source": "Banque centrale européenne"
+  },
+  {
+    "id": "height-smallest-dog",
+    "category": "height",
+    "prompt": "Quelle taille fait Pearl, sacrée plus petite chienne du monde en 2023, mesurée au niveau des épaules ?",
+    "answer": 0.0914,
+    "unit": "m",
+    "fact": "Elle est moins haute qu'un bâtonnet de glace.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-soda-can",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'une canette de soda standard de 33 cl ?",
+    "answer": 0.115,
+    "unit": "m",
+    "fact": "Sa forme bombée vers l'intérieur au fond l'aide à résister à la pression du gaz.",
+    "source": "Crown / Ball Packaging"
+  },
+  {
+    "id": "height-pingpong-net",
+    "category": "height",
+    "prompt": "Quelle est la hauteur du filet en tennis de table ?",
+    "answer": 0.1525,
+    "unit": "m",
+    "fact": "Le ping-pong est né dans les salons anglais avec des livres en guise de filet.",
+    "source": "ITTF"
+  },
+  {
+    "id": "height-cinder-block",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'un parpaing standard ?",
+    "answer": 0.2,
+    "unit": "m",
+    "fact": "Un parpaing creux standard pèse environ 20 kg, de quoi fatiguer un maçon en fin de journée.",
+    "source": "NF EN 771-3"
+  },
+  {
+    "id": "height-a4-sheet",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'une feuille A4 tenue à la verticale ?",
+    "answer": 0.297,
+    "unit": "m",
+    "fact": "Coupée en deux, une feuille A4 donne deux A5 qui gardent exactement les mêmes proportions.",
+    "source": "ISO 216"
+  },
+  {
+    "id": "height-bowling-pin",
+    "category": "height",
+    "prompt": "Quelle est la hauteur d'une quille de bowling réglementaire ?",
+    "answer": 0.381,
+    "unit": "m",
+    "fact": "Les quilles sont faites en érable recouvert de plastique.",
+    "source": "USBC"
+  },
+  {
+    "id": "height-smallest-man",
+    "category": "height",
+    "prompt": "Quelle taille mesurait Chandra Bahadur Dangi, l'homme le plus petit jamais mesuré ?",
+    "answer": 0.546,
+    "unit": "m",
+    "fact": "Il a vécu toute sa vie dans un village népalais avant de devenir célèbre à 72 ans.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-ucl-trophy",
+    "category": "height",
+    "prompt": "Quelle est la hauteur du trophée de la Ligue des champions, la « Coupe aux grandes oreilles » ?",
+    "answer": 0.735,
+    "unit": "m",
+    "fact": "Le vainqueur ne repart qu'avec une réplique : l'original reste au siège de l'UEFA.",
+    "source": "UEFA"
+  },
+  {
+    "id": "height-tallest-dog",
+    "category": "height",
+    "prompt": "Quelle taille faisait Zeus, le plus grand chien de l'histoire, mesuré au niveau des épaules ?",
+    "answer": 1.118,
+    "unit": "m",
+    "fact": "Debout sur ses pattes arrière, ce dogue allemand dépassait les 2 m.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-badminton-net",
+    "category": "height",
+    "prompt": "Quelle est la hauteur du filet de badminton au centre du terrain ?",
+    "answer": 1.524,
+    "unit": "m",
+    "fact": "Un volant smashé peut dépasser les 400 km/h, record de vitesse des sports de raquette.",
+    "source": "BWF"
+  },
+  {
+    "id": "height-tallest-woman",
+    "category": "height",
+    "prompt": "Quelle taille mesure Rumeysa Gelgi, la femme la plus grande du monde ?",
+    "answer": 2.15,
+    "unit": "m",
+    "fact": "Elle a pu prendre l'avion grâce à une compagnie qui a retiré six sièges pour l'allonger.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-basket-hoop",
+    "category": "height",
+    "prompt": "À quelle hauteur se trouve un panier de basket ?",
+    "answer": 3.05,
+    "unit": "m",
+    "fact": "James Naismith accrochait des paniers à pêches au balcon d'un gymnase, sans trou au fond.",
+    "source": "FIBA"
+  },
+  {
+    "id": "height-biggest-elephant",
+    "category": "height",
+    "prompt": "Quelle taille faisait le plus grand éléphant jamais mesuré, au niveau des épaules ? Il a été abattu en Angola en 1974.",
+    "answer": 3.96,
+    "unit": "m",
+    "fact": "Il pesait plus de 10 tonnes, autant qu'un bus.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-liberty-head",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de la tête de la statue de la Liberté, du menton au sommet du crâne ?",
+    "answer": 5.26,
+    "unit": "m",
+    "fact": "Son visage serait inspiré de celui de la mère du sculpteur Bartholdi.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "height-diving-board",
+    "category": "height",
+    "prompt": "À quelle hauteur se trouve la plus haute plateforme de plongeon olympique ?",
+    "answer": 10.0,
+    "unit": "m",
+    "fact": "Un plongeur touche l'eau à plus de 50 km/h.",
+    "source": "World Aquatics"
+  },
+  {
+    "id": "height-hollywood-sign",
+    "category": "height",
+    "prompt": "Quelle est la hauteur des lettres du panneau Hollywood ?",
+    "answer": 13.7,
+    "unit": "m",
+    "fact": "Il affichait à l'origine « Hollywoodland », une publicité pour un lotissement.",
+    "source": "Hollywood Sign Trust"
+  },
+  {
+    "id": "height-rushmore",
+    "category": "height",
+    "prompt": "Quelle est la hauteur des visages des présidents sculptés sur le mont Rushmore ?",
+    "answer": 18.3,
+    "unit": "m",
+    "fact": "Environ 90 % de la sculpture a été taillée à la dynamite.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "height-biggest-wave",
+    "category": "height",
+    "prompt": "Quelle hauteur faisait la vague record surfée à Nazaré en 2020, homologuée par le Guinness World Records ?",
+    "answer": 26.2,
+    "unit": "m",
+    "fact": "Ces monstres naissent d'un immense ravin sous la mer, qui pousse les vagues droit sur ce village portugais.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-snowman",
+    "category": "height",
+    "prompt": "Quelle hauteur faisait le plus grand bonhomme de neige jamais construit ?",
+    "answer": 37.2,
+    "unit": "m",
+    "fact": "C'était une bonne femme de neige, avec des sapins entiers en guise de bras.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "height-arc-triomphe",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de l'Arc de triomphe de l'Étoile ?",
+    "answer": 50,
+    "unit": "m",
+    "fact": "En 1919, un aviateur est passé en avion sous l'arche.",
+    "source": "Centre des monuments nationaux"
+  },
+  {
+    "id": "height-notre-dame-towers",
+    "category": "height",
+    "prompt": "Quelle est la hauteur des tours de Notre-Dame de Paris ?",
+    "answer": 69,
+    "unit": "m",
+    "fact": "Il faut gravir 422 marches pour atteindre leur sommet.",
+    "source": "Centre des monuments nationaux"
+  },
+  {
+    "id": "height-victoria-falls",
+    "category": "height",
+    "prompt": "Quelle est la hauteur des chutes Victoria, entre la Zambie et le Zimbabwe ?",
+    "answer": 108,
+    "unit": "m",
+    "fact": "Leur nuage d'embruns se voit à plus de 30 km, d'où leur nom local : « la fumée qui gronde ».",
+    "source": "UNESCO"
+  },
+  {
+    "id": "height-rouen-spire",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de la flèche de la cathédrale de Rouen, la plus haute de France ?",
+    "answer": 151,
+    "unit": "m",
+    "fact": "Elle a été la plus haute construction du monde pendant quatre ans, au XIXe siècle.",
+    "source": "Ministère de la Culture"
+  },
+  {
+    "id": "height-montparnasse",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de la tour Montparnasse ?",
+    "answer": 210,
+    "unit": "m",
+    "fact": "Les Parisiens disent que la plus belle vue de Paris est depuis son sommet, car c'est le seul endroit d'où on ne la voit pas.",
+    "source": "Tour Montparnasse 56"
+  },
+  {
+    "id": "height-eiffel-third-floor",
+    "category": "height",
+    "prompt": "À quelle hauteur se trouve le 3e étage de la tour Eiffel ?",
+    "answer": 276,
+    "unit": "m",
+    "fact": "Gustave Eiffel s'y était aménagé un petit appartement privé, qui se visite encore.",
+    "source": "SETE (tour Eiffel)"
+  },
+  {
+    "id": "height-empire-state",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de l'Empire State Building jusqu'à son toit, sans l'antenne ?",
+    "answer": 381,
+    "unit": "m",
+    "fact": "Il a été construit en à peine 410 jours, en pleine crise de 1929.",
+    "source": "Empire State Realty Trust"
+  },
+  {
+    "id": "height-skytree",
+    "category": "height",
+    "prompt": "Quelle est la hauteur de la Tokyo Skytree, plus haute tour de télévision du monde ?",
+    "answer": 634,
+    "unit": "m",
+    "fact": "Sa hauteur a été choisie car elle se prononce « Musashi », l'ancien nom de la région de Tokyo.",
+    "source": "Tobu Tower Skytree"
+  },
+  {
+    "id": "height-angel-falls",
+    "category": "height",
+    "prompt": "Quelle est la hauteur du Salto Ángel, au Venezuela, la plus haute chute d'eau du monde ?",
+    "answer": 979,
+    "unit": "m",
+    "fact": "Une grande partie de l'eau s'évapore en brume avant même de toucher le sol.",
+    "source": "Instituto Nacional de Parques du Venezuela"
+  },
+  {
+    "id": "height-puy-de-dome",
+    "category": "height",
+    "prompt": "Quelle est l'altitude du puy de Dôme ?",
+    "answer": 1465,
+    "unit": "m",
+    "fact": "Pascal y a fait mesurer la pression de l'air en 1648 pour prouver que l'atmosphère a un poids.",
+    "source": "IGN"
+  },
+  {
+    "id": "height-tourmalet",
+    "category": "height",
+    "prompt": "Quelle est l'altitude du col du Tourmalet ?",
+    "answer": 2115,
+    "unit": "m",
+    "fact": "C'est le col le plus franchi de l'histoire du Tour de France.",
+    "source": "IGN"
+  },
+  {
+    "id": "height-pic-du-midi",
+    "category": "height",
+    "prompt": "Quelle est l'altitude du pic du Midi de Bigorre, dans les Pyrénées ?",
+    "answer": 2877,
+    "unit": "m",
+    "fact": "Ses télescopes ont servi à cartographier la Lune avant les missions Apollo.",
+    "source": "IGN"
+  },
+  {
+    "id": "height-aiguille-du-midi",
+    "category": "height",
+    "prompt": "Quelle est l'altitude du sommet de l'Aiguille du Midi, face au mont Blanc ?",
+    "answer": 3842,
+    "unit": "m",
+    "fact": "Son téléphérique a été longtemps le plus haut du monde.",
+    "source": "IGN"
+  },
+  {
+    "id": "height-kilimanjaro",
+    "category": "height",
+    "prompt": "Quelle est l'altitude du Kilimandjaro ?",
+    "answer": 5895,
+    "unit": "m",
+    "fact": "On peut le gravir sans matériel d'alpinisme, mais le mal des montagnes y fait renoncer beaucoup de randonneurs.",
+    "source": "Tanzania National Parks"
+  },
+  {
+    "id": "height-everest",
+    "category": "height",
+    "prompt": "Quelle est l'altitude officielle de l'Everest, mesurée en 2020 ?",
+    "answer": 8849,
+    "unit": "m",
+    "fact": "Le sommet est fait de calcaire marin rempli de fossiles.",
+    "source": "Népal et Chine, mesure conjointe 2020"
+  },
+  {
+    "id": "height-vulture",
+    "category": "height",
+    "prompt": "À quelle altitude un vautour a-t-il percuté un avion de ligne en 1973 ?",
+    "answer": 11300,
+    "unit": "m",
+    "fact": "Son sang est spécial : il capte l'oxygène même là-haut, où l'air en contient très peu.",
+    "source": "Smithsonian / Wilson Bulletin"
+  },
+  {
+    "id": "height-concorde",
+    "category": "height",
+    "prompt": "Quelle était l'altitude maximale de vol du Concorde ?",
+    "answer": 18300,
+    "unit": "m",
+    "fact": "Ses passagers pouvaient y voir la courbure de la Terre et un ciel presque noir.",
+    "source": "Air France / British Airways"
+  },
+  {
+    "id": "height-sr71",
+    "category": "height",
+    "prompt": "Quel est le record d'altitude d'un avion volant à plat, sans monter ni descendre, détenu par l'avion espion SR-71 ?",
+    "answer": 25929,
+    "unit": "m",
+    "fact": "En vol, il chauffait tellement qu'il s'allongeait de plusieurs centimètres.",
+    "source": "FAI"
+  },
+  {
+    "id": "height-baumgartner",
+    "category": "height",
+    "prompt": "De quelle altitude Felix Baumgartner a-t-il sauté en chute libre en 2012 ?",
+    "answer": 38969,
+    "unit": "m",
+    "fact": "Il a franchi le mur du son en chute libre, sans aucun véhicule autour de lui.",
+    "source": "FAI"
+  },
+  {
+    "id": "height-stratopause",
+    "category": "height",
+    "prompt": "Jusqu'à quelle altitude monte la stratosphère, la couche d'air qui contient la couche d'ozone ?",
+    "answer": 50000,
+    "unit": "m",
+    "fact": "Il y fait plus chaud qu'en dessous, car l'ozone y absorbe les UV du Soleil.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "height-karman",
+    "category": "height",
+    "prompt": "À quelle altitude commence officiellement l'espace (la ligne de Kármán) ?",
+    "answer": 100000,
+    "unit": "m",
+    "fact": "Au-delà, l'air est si rare qu'un avion devrait voler plus vite qu'un satellite pour tenir en l'air.",
+    "source": "FAI"
+  },
+  {
+    "id": "height-shepard",
+    "category": "height",
+    "prompt": "Quelle altitude maximale a atteint Alan Shepard, premier Américain dans l'espace, en 1961 ?",
+    "answer": 187500,
+    "unit": "m",
+    "fact": "Son vol n'a duré que 15 minutes, sans même faire le tour de la Terre.",
+    "source": "NASA"
+  },
+  {
+    "id": "height-gagarin",
+    "category": "height",
+    "prompt": "Quelle altitude maximale a atteint Youri Gagarine lors du premier vol spatial habité ?",
+    "answer": 327000,
+    "unit": "m",
+    "fact": "Il a atterri en parachute à part de sa capsule, un détail longtemps caché par les Soviétiques.",
+    "source": "NASA / Roscosmos"
+  },
+  {
+    "id": "height-skylab",
+    "category": "height",
+    "prompt": "À quelle altitude orbitait Skylab, la première station spatiale américaine ?",
+    "answer": 435000,
+    "unit": "m",
+    "fact": "En 1979, elle est retombée en morceaux sur l'Australie, qui a envoyé une amende pour déchets à la NASA.",
+    "source": "NASA"
+  },
+  {
+    "id": "height-inspiration4",
+    "category": "height",
+    "prompt": "À quelle altitude a tourné autour de la Terre Inspiration4, premier voyage spatial sans aucun astronaute de métier, en 2021 ?",
+    "answer": 585000,
+    "unit": "m",
+    "fact": "Le hublot de la capsule avait été remplacé par un dôme vitré pour admirer la Terre à 360°.",
+    "source": "SpaceX"
+  },
+  {
+    "id": "height-sputnik",
+    "category": "height",
+    "prompt": "Quelle altitude maximale atteignait Spoutnik 1, le premier satellite, en tournant autour de la Terre ?",
+    "answer": 939000,
+    "unit": "m",
+    "fact": "Son « bip-bip » radio était capté par les radioamateurs du monde entier.",
+    "source": "NASA"
+  }
+]

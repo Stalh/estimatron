@@ -1,0 +1,452 @@
+[
+  {
+    "id": "age-jupiter-year",
+    "category": "age",
+    "prompt": "Combien d'années terrestres dure une année sur Jupiter ?",
+    "answer": 11.9,
+    "unit": "yr",
+    "fact": "Un Jupitérien fêterait son premier anniversaire à l'entrée au collège.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-mir",
+    "category": "age",
+    "prompt": "Combien d'années la station spatiale Mir est-elle restée en orbite ?",
+    "answer": 15,
+    "unit": "yr",
+    "fact": "Prévue pour 5 ans, elle a fini par tomber dans le Pacifique en 2001.",
+    "source": "Roscosmos / ESA"
+  },
+  {
+    "id": "age-eiffel-permit",
+    "category": "age",
+    "prompt": "Pour combien d'années la tour Eiffel avait-elle été autorisée à l'origine ?",
+    "answer": 20,
+    "unit": "yr",
+    "fact": "Elle devait être démontée en 1909 : la radio l'a sauvée.",
+    "source": "Société d'exploitation de la tour Eiffel"
+  },
+  {
+    "id": "age-berlin-wall",
+    "category": "age",
+    "prompt": "Combien d'années le mur de Berlin est-il resté debout ?",
+    "answer": 28,
+    "unit": "yr",
+    "fact": "Il est tombé le 9 novembre 1989, par une erreur de conférence de presse.",
+    "source": "Bundesarchiv"
+  },
+  {
+    "id": "age-oldest-cat",
+    "category": "age",
+    "prompt": "Quel âge avait le plus vieux chat de l'histoire à sa mort ?",
+    "answer": 38,
+    "unit": "yr",
+    "fact": "Creme Puff, Texas, nourri au bacon, aux brocolis et au café crème.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "age-napoleon",
+    "category": "age",
+    "prompt": "Quel âge avait Napoléon Ier à sa mort ?",
+    "answer": 51,
+    "unit": "yr",
+    "fact": "Mort à Sainte-Hélène en 1821, six ans après Waterloo.",
+    "source": "Fondation Napoléon"
+  },
+  {
+    "id": "age-halley",
+    "category": "age",
+    "prompt": "Tous les combien d'années la comète de Halley revient-elle près du Soleil ?",
+    "answer": 76,
+    "unit": "yr",
+    "fact": "Prochain passage en 2061 : note-le dans ton agenda.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-calment",
+    "category": "age",
+    "prompt": "Quel âge avait Jeanne Calment, doyenne de l'humanité, à sa mort ?",
+    "answer": 122,
+    "unit": "yr",
+    "fact": "Elle racontait avoir vendu des toiles à Van Gogh dans la boutique familiale, à Arles.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "age-neptune-year",
+    "category": "age",
+    "prompt": "Selon la tradition, combien d'années a existé Tenochtitlan, la capitale des Aztèques, de sa fondation à sa chute ?",
+    "answer": 196,
+    "unit": "yr",
+    "fact": "Bâtie sur une île au milieu d'un lac, elle est tombée aux mains des Espagnols en 1521. Mexico s'élève sur ses ruines.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-pluto-year",
+    "category": "age",
+    "prompt": "Combien d'années terrestres dure une année sur Pluton ?",
+    "answer": 248,
+    "unit": "yr",
+    "fact": "Depuis sa découverte en 1930, elle n'a parcouru qu'à peine plus d'un tiers de son orbite.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-capetians",
+    "category": "age",
+    "prompt": "Combien d'années a régné la lignée de rois qui va de Hugues Capet à Charles IV ?",
+    "answer": 341,
+    "unit": "yr",
+    "fact": "Jusqu'en 1316, chaque roi a eu un fils pour lui succéder : on parle du « miracle capétien ».",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-ming-clam",
+    "category": "age",
+    "prompt": "Quel âge avait Ming, le plus vieil animal dont on connaît l'âge exact ?",
+    "answer": 507,
+    "unit": "yr",
+    "fact": "Une palourde islandaise : née sous les Ming, tuée par les chercheurs qui la dataient.",
+    "source": "Bangor University"
+  },
+  {
+    "id": "age-new-zealand",
+    "category": "age",
+    "prompt": "Il y a combien de temps les premiers humains ont-ils posé le pied en Nouvelle-Zélande ?",
+    "answer": 750,
+    "unit": "yr",
+    "fact": "Dernière grande terre colonisée : les Polynésiens y sont arrivés en pirogue.",
+    "source": "Te Ara, Encyclopedia of New Zealand"
+  },
+  {
+    "id": "age-vikings-america",
+    "category": "age",
+    "prompt": "Il y a combien de temps les Vikings ont-ils atteint l'Amérique ?",
+    "answer": 1000,
+    "unit": "yr",
+    "fact": "Des cernes d'arbres coupés par les Vikings datent leur présence de l'an 1021.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-fall-rome",
+    "category": "age",
+    "prompt": "Il y a combien de temps l'Empire romain d'Occident est-il tombé ?",
+    "answer": 1550,
+    "unit": "yr",
+    "fact": "Le dernier empereur, Romulus Augustule, avait environ 16 ans.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-caesar",
+    "category": "age",
+    "prompt": "Il y a combien de temps Jules César a-t-il été assassiné ?",
+    "answer": 2070,
+    "unit": "yr",
+    "fact": "23 coups de couteau, dont un seul mortel selon le médecin de l'époque.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-tutankhamun",
+    "category": "age",
+    "prompt": "Il y a combien de temps Toutânkhamon est-il mort ?",
+    "answer": 3350,
+    "unit": "yr",
+    "fact": "Il avait environ 19 ans et n'a régné qu'une dizaine d'années.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-kheops",
+    "category": "age",
+    "prompt": "Il y a combien de temps la pyramide de Khéops a-t-elle été construite ?",
+    "answer": 4600,
+    "unit": "yr",
+    "fact": "À cette époque, il restait encore des mammouths sur l'île Wrangel, en Sibérie.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-doggerland",
+    "category": "age",
+    "prompt": "Il y a combien de temps la Grande-Bretagne est-elle devenue une île ?",
+    "answer": 8200,
+    "unit": "yr",
+    "fact": "Avant, on rejoignait l'Angleterre à pied par le Doggerland, aujourd'hui sous la mer du Nord.",
+    "source": "British Geological Survey"
+  },
+  {
+    "id": "age-ice-age-end",
+    "category": "age",
+    "prompt": "Il y a combien de temps la dernière période glaciaire a-t-elle pris fin ?",
+    "answer": 11700,
+    "unit": "yr",
+    "fact": "Le niveau des mers est remonté d'environ 120 mètres depuis.",
+    "source": "Commission internationale de stratigraphie"
+  },
+  {
+    "id": "age-lascaux",
+    "category": "age",
+    "prompt": "Il y a combien de temps ont été peintes les fresques de la grotte de Lascaux ?",
+    "answer": 17000,
+    "unit": "yr",
+    "fact": "Découverte en 1940 par quatre ados : un chien les y aurait menés, dit la légende.",
+    "source": "Ministère de la Culture"
+  },
+  {
+    "id": "age-plutonium",
+    "category": "age",
+    "prompt": "Combien d'années faut-il pour que le plutonium 239, un déchet nucléaire, perde la moitié de sa radioactivité ?",
+    "answer": 24100,
+    "unit": "yr",
+    "fact": "Les déchets nucléaires devront être surveillés plus longtemps qu'a duré l'histoire humaine.",
+    "source": "IRSN"
+  },
+  {
+    "id": "age-neanderthal",
+    "category": "age",
+    "prompt": "Il y a combien de temps l'homme de Néandertal a-t-il disparu ?",
+    "answer": 40000,
+    "unit": "yr",
+    "fact": "Tu portes sans doute 1 à 2 % de son ADN.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "age-hobbit",
+    "category": "age",
+    "prompt": "Il y a combien de temps les « hobbits » de l'île de Florès, des humains d'1 m, ont-ils disparu ?",
+    "answer": 50000,
+    "unit": "yr",
+    "fact": "Ils chassaient des éléphants nains sur l'île de Florès, en Indonésie.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "age-toba",
+    "category": "age",
+    "prompt": "Il y a combien de temps le volcan géant Toba, en Indonésie, a-t-il explosé ?",
+    "answer": 74000,
+    "unit": "yr",
+    "fact": "Plus grosse éruption depuis l'apparition de l'humanité : un lac de 100 km l'a remplacé.",
+    "source": "Smithsonian Global Volcanism Program"
+  },
+  {
+    "id": "age-thames-hippos",
+    "category": "age",
+    "prompt": "Il y a combien de temps des hippopotames se baignaient-ils dans la Tamise ?",
+    "answer": 125000,
+    "unit": "yr",
+    "fact": "Leurs os ont été retrouvés sous Trafalgar Square, en plein Londres.",
+    "source": "Natural History Museum"
+  },
+  {
+    "id": "age-homo-sapiens",
+    "category": "age",
+    "prompt": "Il y a combien de temps sont apparus les premiers humains de notre espèce, Homo sapiens ?",
+    "answer": 300000,
+    "unit": "yr",
+    "fact": "Les plus vieux fossiles ont été trouvés au Maroc, à Jebel Irhoud.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-tautavel",
+    "category": "age",
+    "prompt": "Il y a combien de temps vivait l'homme de Tautavel, un lointain ancêtre trouvé dans les Pyrénées ?",
+    "answer": 450000,
+    "unit": "yr",
+    "fact": "Son crâne, retrouvé en 1971, compte parmi les plus vieux d'Europe.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "age-magnetic-flip",
+    "category": "age",
+    "prompt": "Il y a combien de temps le nord et le sud magnétiques se sont-ils inversés pour la dernière fois ?",
+    "answer": 780000,
+    "unit": "yr",
+    "fact": "À l'époque, ta boussole aurait pointé vers l'Antarctique.",
+    "source": "British Geological Survey"
+  },
+  {
+    "id": "age-fire",
+    "category": "age",
+    "prompt": "Il y a combien de temps nos ancêtres ont-ils commencé à utiliser le feu ?",
+    "answer": 1000000,
+    "unit": "yr",
+    "fact": "Les plus vieilles traces sont des cendres dans une grotte d'Afrique du Sud.",
+    "source": "PNAS"
+  },
+  {
+    "id": "age-out-of-africa",
+    "category": "age",
+    "prompt": "Quel âge ont les plus vieux fossiles humains découverts hors d'Afrique ?",
+    "answer": 1800000,
+    "unit": "yr",
+    "fact": "Des Homo erectus trouvés en Géorgie, à Dmanissi, bien avant l'arrivée de notre espèce.",
+    "source": "Science"
+  },
+  {
+    "id": "age-lucy",
+    "category": "age",
+    "prompt": "Il y a combien de temps vivait Lucy, la célèbre ancêtre de l'humanité ?",
+    "answer": 3200000,
+    "unit": "yr",
+    "fact": "Nommée d'après « Lucy in the Sky with Diamonds », qui passait au camp le soir.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "age-mediterranean",
+    "category": "age",
+    "prompt": "Il y a combien de temps la Méditerranée, alors à sec, s'est-elle remplie d'un coup ?",
+    "answer": 5330000,
+    "unit": "yr",
+    "fact": "Par Gibraltar, avec un débit mille fois celui de l'Amazone.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-toumai",
+    "category": "age",
+    "prompt": "Il y a combien de temps vivait Toumaï, l'un des plus vieux ancêtres de l'humanité ?",
+    "answer": 7000000,
+    "unit": "yr",
+    "fact": "Découvert au Tchad en 2001, son nom signifie « espoir de vie ».",
+    "source": "CNRS"
+  },
+  {
+    "id": "age-iceland",
+    "category": "age",
+    "prompt": "Quel âge ont les plus vieilles roches d'Islande ?",
+    "answer": 16000000,
+    "unit": "yr",
+    "fact": "L'île continue de grandir : elle s'écarte d'environ 2 cm par an.",
+    "source": "Britannica"
+  },
+  {
+    "id": "age-baikal",
+    "category": "age",
+    "prompt": "Quel âge a le lac Baïkal, le plus vieux lac du monde ?",
+    "answer": 25000000,
+    "unit": "yr",
+    "fact": "Il contient à lui seul environ 20 % de l'eau douce liquide de surface.",
+    "source": "UNESCO"
+  },
+  {
+    "id": "age-antarctica-ice",
+    "category": "age",
+    "prompt": "Il y a combien de temps l'Antarctique s'est-il couvert de glace ?",
+    "answer": 34000000,
+    "unit": "yr",
+    "fact": "Avant, il était couvert de forêts et habité par des marsupiaux.",
+    "source": "British Antarctic Survey"
+  },
+  {
+    "id": "age-himalaya",
+    "category": "age",
+    "prompt": "Il y a combien de temps l'Inde a-t-elle percuté l'Asie, faisant naître l'Himalaya ?",
+    "answer": 50000000,
+    "unit": "yr",
+    "fact": "On trouve des fossiles marins au sommet de l'Everest.",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "age-dinosaurs",
+    "category": "age",
+    "prompt": "Il y a combien de temps les dinosaures ont-ils disparu (sauf les oiseaux) ?",
+    "answer": 66000000,
+    "unit": "yr",
+    "fact": "Les oiseaux sont des dinosaures : tu en croises tous les jours.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "age-stegosaurus",
+    "category": "age",
+    "prompt": "Il y a combien de temps vivait le stégosaure ?",
+    "answer": 150000000,
+    "unit": "yr",
+    "fact": "Le T. rex est plus proche de nous dans le temps que du stégosaure.",
+    "source": "Natural History Museum"
+  },
+  {
+    "id": "age-galactic-year",
+    "category": "age",
+    "prompt": "Combien d'années met le Soleil pour faire un tour complet de la Voie lactée ?",
+    "answer": 230000000,
+    "unit": "yr",
+    "fact": "Au dernier tour, les premiers dinosaures apparaissaient.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-meganeura",
+    "category": "age",
+    "prompt": "Il y a combien de temps vivait la Meganeura, une libellule géante retrouvée dans l'Allier ?",
+    "answer": 300000000,
+    "unit": "yr",
+    "fact": "70 cm d'envergure, grâce à un air bien plus riche en oxygène.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "age-land-plants",
+    "category": "age",
+    "prompt": "Il y a combien de temps les premières plantes sont-elles sorties de l'eau ?",
+    "answer": 470000000,
+    "unit": "yr",
+    "fact": "Des mousses minuscules, sans racines ni fleurs.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-snowball-earth",
+    "category": "age",
+    "prompt": "Il y a combien de temps la Terre a-t-elle été presque entièrement gelée, des pôles jusqu'à l'équateur ?",
+    "answer": 720000000,
+    "unit": "yr",
+    "fact": "Elle en serait sortie grâce aux volcans, qui ont saturé l'air de CO2 jusqu'au dégel.",
+    "source": "Science"
+  },
+  {
+    "id": "age-habitable",
+    "category": "age",
+    "prompt": "Dans combien d'années le Soleil rendra-t-il la Terre trop chaude pour la vie ?",
+    "answer": 1000000000,
+    "unit": "yr",
+    "fact": "Il brille un peu plus chaque milliard d'années : les océans finiront par s'évaporer.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-oxygen",
+    "category": "age",
+    "prompt": "Il y a combien de temps l'oxygène est-il apparu dans l'atmosphère ?",
+    "answer": 2400000000,
+    "unit": "yr",
+    "fact": "Merci aux cyanobactéries, de minuscules bactéries : elles ont aussi fait rouiller les roches.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-stromatolites",
+    "category": "age",
+    "prompt": "Quel âge ont les plus vieux fossiles de vie connus ?",
+    "answer": 3500000000,
+    "unit": "yr",
+    "fact": "Des tapis de bactéries pétrifiés, encore visibles en Australie.",
+    "source": "Nature"
+  },
+  {
+    "id": "age-earth",
+    "category": "age",
+    "prompt": "Quel âge a la Terre ?",
+    "answer": 4540000000,
+    "unit": "yr",
+    "fact": "Datée grâce aux météorites, nées en même temps que le système solaire.",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "age-sun-lifetime",
+    "category": "age",
+    "prompt": "Combien d'années durera en tout la vie « normale » du Soleil, avant qu'il ne gonfle ?",
+    "answer": 10000000000,
+    "unit": "yr",
+    "fact": "Il a fait environ la moitié du chemin : pas de panique.",
+    "source": "NASA"
+  },
+  {
+    "id": "age-universe",
+    "category": "age",
+    "prompt": "Quel âge a l'Univers ?",
+    "answer": 13800000000,
+    "unit": "yr",
+    "fact": "La Voie lactée et ses plus vieilles étoiles sont presque aussi anciennes.",
+    "source": "ESA / Planck"
+  }
+]

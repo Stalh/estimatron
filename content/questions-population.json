@@ -1,0 +1,452 @@
+[
+  {
+    "id": "population-monowi",
+    "category": "population",
+    "prompt": "Combien de personnes vivent à Monowi, au Nebraska, réputé plus petit village des États-Unis ?",
+    "answer": 1,
+    "unit": "people",
+    "fact": "Elsie Eiler y est maire, bibliothécaire et barmaid. Le recensement 2020 lui a ajouté un voisin fictif, pour protéger son anonymat.",
+    "source": "U.S. Census Bureau / Lincoln Journal Star"
+  },
+  {
+    "id": "population-women-pm",
+    "category": "population",
+    "prompt": "Combien de femmes ont été Premier ministre en France, de 1958 à fin 2025 ?",
+    "answer": 2,
+    "unit": "people",
+    "fact": "La première, Édith Cresson, a été nommée en 1991 et n'est restée que dix mois.",
+    "source": "Gouvernement.fr"
+  },
+  {
+    "id": "population-died-in-space",
+    "category": "population",
+    "prompt": "Combien d'humains sont morts dans l'espace, au-delà de 100 km d'altitude ?",
+    "answer": 3,
+    "unit": "people",
+    "fact": "L'équipage de Soyouz 11, en 1971 : une valve s'est ouverte au retour et la cabine s'est vidée de son air.",
+    "source": "NASA"
+  },
+  {
+    "id": "population-ballon-dor-fr",
+    "category": "population",
+    "prompt": "Combien de Français différents ont remporté le Ballon d'or, jusqu'en 2025 inclus ?",
+    "answer": 6,
+    "unit": "people",
+    "fact": "Michel Platini est le seul à l'avoir gagné trois années de suite.",
+    "source": "France Football"
+  },
+  {
+    "id": "population-fifth-republic",
+    "category": "population",
+    "prompt": "Combien de personnes ont été élues présidents de la Ve République ?",
+    "answer": 8,
+    "unit": "people",
+    "fact": "Alain Poher a remplacé deux fois le président, sans jamais être élu.",
+    "source": "Élysée"
+  },
+  {
+    "id": "population-moonwalkers",
+    "category": "population",
+    "prompt": "Combien de personnes ont marché sur la Lune ?",
+    "answer": 12,
+    "unit": "people",
+    "fact": "Tous Américains, tous entre 1969 et 1972. Personne n'y est retourné depuis.",
+    "source": "NASA"
+  },
+  {
+    "id": "population-moon-travelers",
+    "category": "population",
+    "prompt": "Pendant le programme Apollo, combien de personnes sont allées jusqu'à la Lune, en comptant celles restées en orbite ?",
+    "answer": 24,
+    "unit": "people",
+    "fact": "Jim Lovell y est allé deux fois sans jamais pouvoir s'y poser.",
+    "source": "NASA"
+  },
+  {
+    "id": "population-chile-miners",
+    "category": "population",
+    "prompt": "Combien de mineurs chiliens ont été sauvés après 69 jours sous terre en 2010 ?",
+    "answer": 33,
+    "unit": "people",
+    "fact": "Remontés un par un dans une capsule à peine plus large que des épaules, baptisée Fénix.",
+    "source": "BBC"
+  },
+  {
+    "id": "population-us-presidents",
+    "category": "population",
+    "prompt": "Jusqu'en 2025, combien de personnes différentes ont été présidents des États-Unis ?",
+    "answer": 45,
+    "unit": "people",
+    "fact": "Cleveland et Trump ont été élus deux fois, avec une pause entre les deux : d'où 47 présidences.",
+    "source": "Maison-Blanche"
+  },
+  {
+    "id": "population-mayflower",
+    "category": "population",
+    "prompt": "Combien de passagers transportait le Mayflower en 1620 ?",
+    "answer": 102,
+    "unit": "people",
+    "fact": "Un bébé est né pendant la traversée : ses parents l'ont appelé Oceanus.",
+    "source": "Britannica"
+  },
+  {
+    "id": "population-medusa-raft",
+    "category": "population",
+    "prompt": "Combien de personnes ont embarqué sur le radeau de la Méduse en 1816 ?",
+    "answer": 147,
+    "unit": "people",
+    "fact": "Seuls 15 étaient encore vivants au bout de 13 jours. Géricault en a fait un chef-d'œuvre.",
+    "source": "Musée du Louvre"
+  },
+  {
+    "id": "population-athens-1896",
+    "category": "population",
+    "prompt": "Combien d'athlètes ont participé aux premiers Jeux olympiques modernes, à Athènes en 1896 ?",
+    "answer": 241,
+    "unit": "people",
+    "fact": "Que des hommes : les femmes n'ont été admises qu'à partir de 1900, à Paris.",
+    "source": "Comité international olympique"
+  },
+  {
+    "id": "population-senate",
+    "category": "population",
+    "prompt": "Combien de sénateurs siègent au Sénat français ?",
+    "answer": 348,
+    "unit": "people",
+    "fact": "Ils siègent au palais du Luxembourg, construit pour Marie de Médicis.",
+    "source": "Sénat"
+  },
+  {
+    "id": "population-assemblee",
+    "category": "population",
+    "prompt": "Combien de députés siègent à l'Assemblée nationale ?",
+    "answer": 577,
+    "unit": "people",
+    "fact": "Depuis 1986, leur nombre n'a pas bougé malgré la hausse de la population.",
+    "source": "Assemblée nationale"
+  },
+  {
+    "id": "population-a380",
+    "category": "population",
+    "prompt": "Combien de passagers un Airbus A380 a-t-il le droit de transporter au maximum ?",
+    "answer": 853,
+    "unit": "people",
+    "fact": "Aucune compagnie ne l'a jamais rempli autant : la plupart en mettent 500.",
+    "source": "Airbus"
+  },
+  {
+    "id": "population-titanic",
+    "category": "population",
+    "prompt": "Combien de personnes se trouvaient à bord du Titanic lors de son naufrage ?",
+    "answer": 2224,
+    "unit": "people",
+    "fact": "Un peu plus de 700 personnes seulement ont survécu.",
+    "source": "Britannica"
+  },
+  {
+    "id": "population-spm",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'archipel de Saint-Pierre-et-Miquelon ?",
+    "answer": 5819,
+    "unit": "people",
+    "fact": "Un bout de France à 25 km du Canada, où l'on paie en euros (recensement 2022).",
+    "source": "INSEE"
+  },
+  {
+    "id": "population-easter-island",
+    "category": "population",
+    "prompt": "Combien de personnes vivent sur l'île de Pâques ?",
+    "answer": 7750,
+    "unit": "people",
+    "fact": "Ses habitants y ont dressé près de 900 moaïs, des statues géantes hautes parfois de 10 m.",
+    "source": "Instituto Nacional de Estadísticas (Chili)"
+  },
+  {
+    "id": "population-paris-2024-athletes",
+    "category": "population",
+    "prompt": "Combien d'athlètes ont participé aux Jeux olympiques de Paris 2024 ?",
+    "answer": 10500,
+    "unit": "people",
+    "fact": "Premiers Jeux à parité parfaite : autant de femmes que d'hommes.",
+    "source": "Comité international olympique"
+  },
+  {
+    "id": "population-chatrier",
+    "category": "population",
+    "prompt": "Combien de spectateurs peut accueillir le court Philippe-Chatrier de Roland-Garros ?",
+    "answer": 15000,
+    "unit": "people",
+    "fact": "Son toit rétractable se ferme en 15 minutes.",
+    "source": "Fédération française de tennis"
+  },
+  {
+    "id": "population-monaco",
+    "category": "population",
+    "prompt": "Combien d'habitants compte Monaco ?",
+    "answer": 38400,
+    "unit": "people",
+    "fact": "Les Monégasques de nationalité ne sont qu'environ 9 700 : minoritaires chez eux.",
+    "source": "IMSEE Monaco"
+  },
+  {
+    "id": "population-nyc-marathon",
+    "category": "population",
+    "prompt": "Selon ses organisateurs, combien de coureurs ont terminé le marathon de New York en 2025 ?",
+    "answer": 59226,
+    "unit": "people",
+    "fact": "Un record du monde en 2025 : jamais un marathon n'avait vu autant de coureurs arriver au bout.",
+    "source": "New York Road Runners"
+  },
+  {
+    "id": "population-stade-de-france",
+    "category": "population",
+    "prompt": "Combien de spectateurs peut accueillir le Stade de France ?",
+    "answer": 80000,
+    "unit": "people",
+    "fact": "Sa tribune basse peut reculer de 15 m pour dégager une piste d'athlétisme.",
+    "source": "Stade de France"
+  },
+  {
+    "id": "population-modi-stadium",
+    "category": "population",
+    "prompt": "Combien de spectateurs peut accueillir le plus grand stade du monde, en Inde ?",
+    "answer": 132000,
+    "unit": "people",
+    "fact": "Le stade Narendra Modi d'Ahmedabad est dédié... au cricket.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "population-google-employees",
+    "category": "population",
+    "prompt": "Combien de salariés travaillaient pour Google (Alphabet) fin 2024 ?",
+    "answer": 183000,
+    "unit": "people",
+    "fact": "Google est né en 1998 dans un garage, avec deux fondateurs.",
+    "source": "Alphabet, rapport annuel"
+  },
+  {
+    "id": "population-march-washington",
+    "category": "population",
+    "prompt": "Combien de personnes ont assisté au discours « I have a dream » de Martin Luther King en 1963 ?",
+    "answer": 250000,
+    "unit": "people",
+    "fact": "La phrase culte n'était pas dans le texte : il l'a improvisée.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "population-iceland",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Islande ?",
+    "answer": 390000,
+    "unit": "people",
+    "fact": "Une appli permet aux Islandais de vérifier qu'ils ne draguent pas un cousin.",
+    "source": "Statistics Iceland"
+  },
+  {
+    "id": "population-luxembourg",
+    "category": "population",
+    "prompt": "Combien d'habitants compte le Luxembourg ?",
+    "answer": 682000,
+    "unit": "people",
+    "fact": "Près de la moitié des habitants sont étrangers, dont beaucoup de Portugais.",
+    "source": "STATEC"
+  },
+  {
+    "id": "population-marseille",
+    "category": "population",
+    "prompt": "Combien d'habitants compte la ville de Marseille, sans sa banlieue ?",
+    "answer": 877000,
+    "unit": "people",
+    "fact": "Elle est plus de deux fois plus grande que Paris (sans banlieue) en superficie.",
+    "source": "INSEE"
+  },
+  {
+    "id": "population-estonia",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Estonie ?",
+    "answer": 1370000,
+    "unit": "people",
+    "fact": "Le pays qui a inventé Skype vote en ligne depuis 2005.",
+    "source": "Statistics Estonia"
+  },
+  {
+    "id": "population-paris",
+    "category": "population",
+    "prompt": "Combien d'habitants compte Paris, sans sa banlieue ?",
+    "answer": 2100000,
+    "unit": "people",
+    "fact": "Paris perd des habitants depuis des années : elle en comptait 2,9 millions en 1921.",
+    "source": "INSEE"
+  },
+  {
+    "id": "population-rod-stewart",
+    "category": "population",
+    "prompt": "Combien de spectateurs a réuni le concert gratuit record de Rod Stewart à Copacabana en 1994 ?",
+    "answer": 3500000,
+    "unit": "people",
+    "fact": "C'était un soir de Nouvel An : beaucoup étaient aussi venus pour le feu d'artifice.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "population-new-zealand",
+    "category": "population",
+    "prompt": "Combien d'habitants compte la Nouvelle-Zélande ?",
+    "answer": 5300000,
+    "unit": "people",
+    "fact": "Le pays compte près de cinq moutons par habitant.",
+    "source": "Stats NZ"
+  },
+  {
+    "id": "population-switzerland",
+    "category": "population",
+    "prompt": "Combien d'habitants compte la Suisse ?",
+    "answer": 9000000,
+    "unit": "people",
+    "fact": "Quatre langues officielles pour un pays plus petit que la région Grand Est.",
+    "source": "Office fédéral de la statistique"
+  },
+  {
+    "id": "population-ile-de-france",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Île-de-France ?",
+    "answer": 12400000,
+    "unit": "people",
+    "fact": "Près d'un Français sur cinq vit sur 2 % du territoire.",
+    "source": "INSEE"
+  },
+  {
+    "id": "population-netherlands",
+    "category": "population",
+    "prompt": "Combien d'habitants comptent les Pays-Bas ?",
+    "answer": 18000000,
+    "unit": "people",
+    "fact": "Et environ 23 millions de vélos : plus que d'habitants.",
+    "source": "CBS (Pays-Bas)"
+  },
+  {
+    "id": "population-australia",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Australie ?",
+    "answer": 27400000,
+    "unit": "people",
+    "fact": "Un pays grand comme 14 fois la France, mais 85 % des gens vivent près des côtes.",
+    "source": "Australian Bureau of Statistics"
+  },
+  {
+    "id": "population-canada",
+    "category": "population",
+    "prompt": "Combien d'habitants compte le Canada ?",
+    "answer": 41500000,
+    "unit": "people",
+    "fact": "Deuxième plus grand pays du monde, mais moins peuplé que la Pologne et la Roumanie réunies.",
+    "source": "Statistique Canada"
+  },
+  {
+    "id": "population-france",
+    "category": "population",
+    "prompt": "Combien d'habitants compte la France, outre-mer compris ?",
+    "answer": 68600000,
+    "unit": "people",
+    "fact": "Il y naît encore environ 660 000 bébés par an, un plus bas depuis 1945.",
+    "source": "INSEE"
+  },
+  {
+    "id": "population-japan",
+    "category": "population",
+    "prompt": "Combien d'habitants compte le Japon ?",
+    "answer": 124000000,
+    "unit": "people",
+    "fact": "Le pays perd près de 900 000 habitants par an, l'équivalent de Marseille.",
+    "source": "ONU, World Population Prospects"
+  },
+  {
+    "id": "population-brazil",
+    "category": "population",
+    "prompt": "Combien d'habitants compte le Brésil ?",
+    "answer": 213000000,
+    "unit": "people",
+    "fact": "Le plus grand pays de langue portugaise du monde : 20 fois plus d'habitants que le Portugal.",
+    "source": "IBGE"
+  },
+  {
+    "id": "population-usa",
+    "category": "population",
+    "prompt": "Combien d'habitants comptent les États-Unis ?",
+    "answer": 341000000,
+    "unit": "people",
+    "fact": "Troisième pays le plus peuplé, derrière l'Inde et la Chine.",
+    "source": "U.S. Census Bureau"
+  },
+  {
+    "id": "population-eu",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Union européenne ?",
+    "answer": 450000000,
+    "unit": "people",
+    "fact": "L'Allemagne et la France en représentent à elles seules un tiers.",
+    "source": "Eurostat"
+  },
+  {
+    "id": "population-spanish-speakers",
+    "category": "population",
+    "prompt": "Combien de personnes parlent espagnol dans le monde en 2025, selon l'Institut Cervantes ?",
+    "answer": 636000000,
+    "unit": "people",
+    "fact": "Les États-Unis comptent plus de gens qui parlent espagnol que l'Espagne.",
+    "source": "Instituto Cervantes"
+  },
+  {
+    "id": "population-mandarin",
+    "category": "population",
+    "prompt": "Combien de personnes ont pour langue maternelle le mandarin, le chinois le plus parlé ?",
+    "answer": 988000000,
+    "unit": "people",
+    "fact": "C'est près de deux fois plus que les gens dont l'espagnol est la langue maternelle.",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "population-india",
+    "category": "population",
+    "prompt": "Combien d'habitants compte l'Inde ?",
+    "answer": 1460000000,
+    "unit": "people",
+    "fact": "Elle a dépassé la Chine en 2023 pour devenir le pays le plus peuplé du monde.",
+    "source": "ONU, World Population Prospects"
+  },
+  {
+    "id": "population-world-1950",
+    "category": "population",
+    "prompt": "Combien d'humains vivaient sur Terre en 1950 ?",
+    "answer": 2500000000,
+    "unit": "people",
+    "fact": "La population mondiale a plus que triplé en trois générations.",
+    "source": "ONU, World Population Prospects"
+  },
+  {
+    "id": "population-world-1970",
+    "category": "population",
+    "prompt": "Combien d'humains vivaient sur Terre en 1970 ?",
+    "answer": 3700000000,
+    "unit": "people",
+    "fact": "La croissance a culminé à cette époque : plus de 2 % par an.",
+    "source": "ONU, World Population Prospects"
+  },
+  {
+    "id": "population-internet-users",
+    "category": "population",
+    "prompt": "Combien de personnes utilisent Internet dans le monde ?",
+    "answer": 6000000000,
+    "unit": "people",
+    "fact": "Environ trois humains sur quatre, d'après le décompte de 2025.",
+    "source": "Union internationale des télécommunications"
+  },
+  {
+    "id": "population-world",
+    "category": "population",
+    "prompt": "Combien d'humains vivaient sur Terre en 2025 ?",
+    "answer": 8200000000,
+    "unit": "people",
+    "fact": "On a franchi les 8 milliards en novembre 2022, selon l'ONU.",
+    "source": "ONU, World Population Prospects"
+  }
+]

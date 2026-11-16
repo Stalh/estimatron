@@ -1,0 +1,452 @@
+[
+  {
+    "id": "temperature-satellite-record",
+    "category": "temperature",
+    "prompt": "Quelle est la température la plus basse jamais mesurée par satellite à la surface de la Terre ?",
+    "answer": -98.0,
+    "unit": "°C",
+    "fact": "Dans de petits creux de neige du plateau antarctique, par nuit claire et sans vent.",
+    "source": "NSIDC / AGU"
+  },
+  {
+    "id": "temperature-vostok",
+    "category": "temperature",
+    "prompt": "Quel est le record de froid mesuré par une station météo sur Terre, à Vostok en Antarctique ?",
+    "answer": -89.2,
+    "unit": "°C",
+    "fact": "C'était le 21 juillet 1983, en plein hiver antarctique, à 3 500 m d'altitude.",
+    "source": "Organisation météorologique mondiale"
+  },
+  {
+    "id": "temperature-dry-ice",
+    "category": "temperature",
+    "prompt": "À quelle température la glace carbonique, celle des fumées de concert, passe-t-elle directement de solide à gaz ?",
+    "answer": -78.5,
+    "unit": "°C",
+    "fact": "Pas de flaque : elle se change directement en fumée. C'est le brouillard des concerts et des cocktails.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-greenland",
+    "category": "temperature",
+    "prompt": "Quel est le record de froid de tout l'hémisphère Nord, mesuré au Groenland en 1991 ?",
+    "answer": -69.6,
+    "unit": "°C",
+    "fact": "Il a dormi dans des archives pendant près de 30 ans avant d'être homologué en 2020.",
+    "source": "Organisation météorologique mondiale"
+  },
+  {
+    "id": "temperature-snag",
+    "category": "temperature",
+    "prompt": "Quel est le record de froid de l'Amérique du Nord, mesuré au Yukon en 1947 ?",
+    "answer": -63.0,
+    "unit": "°C",
+    "fact": "Ce jour-là à Snag, on entendait des voix à plusieurs kilomètres, portées par l'air glacé.",
+    "source": "Environnement Canada"
+  },
+  {
+    "id": "temperature-cruise-altitude",
+    "category": "temperature",
+    "prompt": "Quelle température fait-il dehors à 11 km d'altitude, là où volent les avions de ligne ?",
+    "answer": -56.5,
+    "unit": "°C",
+    "fact": "Valeur moyenne : de l'autre côté du hublot, c'est pire qu'au pôle Nord.",
+    "source": "OACI"
+  },
+  {
+    "id": "temperature-south-pole",
+    "category": "temperature",
+    "prompt": "Quelle est la température moyenne sur l'année au pôle Sud ?",
+    "answer": -49.0,
+    "unit": "°C",
+    "fact": "En décembre, c'est l'été : il fait alors seulement autour de -28 °C.",
+    "source": "National Science Foundation"
+  },
+  {
+    "id": "temperature-celsius-fahrenheit",
+    "category": "temperature",
+    "prompt": "À quelle température les degrés Celsius et Fahrenheit affichent-ils le même nombre ?",
+    "answer": -40.0,
+    "unit": "°C",
+    "fact": "À ce moment-là, plus besoin de convertir : les deux thermomètres sont d'accord.",
+    "source": "NIST"
+  },
+  {
+    "id": "temperature-paris-cold",
+    "category": "temperature",
+    "prompt": "Quel est le record de froid à Paris, mesuré au parc Montsouris ?",
+    "answer": -23.9,
+    "unit": "°C",
+    "fact": "C'était le 10 décembre 1879 : un record jamais approché depuis.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "temperature-freezer",
+    "category": "temperature",
+    "prompt": "À quelle température doit être réglé un congélateur ?",
+    "answer": -18.0,
+    "unit": "°C",
+    "fact": "À ce froid, les bactéries ne meurent pas : elles se mettent juste en pause.",
+    "source": "ANSES"
+  },
+  {
+    "id": "temperature-ground-squirrel",
+    "category": "temperature",
+    "prompt": "Quelle est la température corporelle la plus basse jamais mesurée chez un mammifère ?",
+    "answer": -2.9,
+    "unit": "°C",
+    "fact": "Un écureuil de l'Arctique qui hiberne : son sang descend sous zéro sans geler.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "temperature-water-density",
+    "category": "temperature",
+    "prompt": "À quelle température l'eau douce est-elle la plus lourde, pour un même volume ?",
+    "answer": 4.0,
+    "unit": "°C",
+    "fact": "C'est pour ça que les lacs gèlent par le haut et que les poissons survivent au fond.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-earth-average",
+    "category": "temperature",
+    "prompt": "Quelle est la température moyenne à la surface de la Terre ?",
+    "answer": 15.0,
+    "unit": "°C",
+    "fact": "Sans l'effet de serre naturel, elle serait de -18 °C : une planète de glace.",
+    "source": "NASA"
+  },
+  {
+    "id": "temperature-mars-max",
+    "category": "temperature",
+    "prompt": "Quelle température peut-il faire, au maximum, un jour d'été à l'équateur de Mars ?",
+    "answer": 20.0,
+    "unit": "°C",
+    "fact": "La nuit suivante, au même endroit, le thermomètre plonge sous les -70 °C.",
+    "source": "NASA"
+  },
+  {
+    "id": "temperature-gallium",
+    "category": "temperature",
+    "prompt": "À quelle température fond le gallium, un métal ?",
+    "answer": 29.8,
+    "unit": "°C",
+    "fact": "Pose-le dans ta main : il fond comme un glaçon, en flaque argentée.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-body",
+    "category": "temperature",
+    "prompt": "Quelle est la température normale du corps humain, en moyenne ?",
+    "answer": 37.0,
+    "unit": "°C",
+    "fact": "Des études récentes la trouvent plutôt vers 36,6 °C : on refroidit depuis 150 ans.",
+    "source": "Stanford Medicine"
+  },
+  {
+    "id": "temperature-paris-heat",
+    "category": "temperature",
+    "prompt": "Quel est le record de chaleur à Paris, mesuré au parc Montsouris ?",
+    "answer": 42.6,
+    "unit": "°C",
+    "fact": "Le 25 juillet 2019, il a pulvérisé l'ancien record de 1947 de plus de 2 °C.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "temperature-fever-record",
+    "category": "temperature",
+    "prompt": "Quelle est la plus forte température corporelle à laquelle un humain a survécu ?",
+    "answer": 46.5,
+    "unit": "°C",
+    "fact": "Willie Jones, victime d'un coup de chaleur à Atlanta en 1980, est sorti au bout de 24 jours.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "temperature-death-valley",
+    "category": "temperature",
+    "prompt": "Quel est le record de chaleur de l'air sur Terre, mesuré dans la Vallée de la Mort ?",
+    "answer": 56.7,
+    "unit": "°C",
+    "fact": "Mesuré en 1913 : plus d'un siècle plus tard, il n'a toujours pas été battu.",
+    "source": "Organisation météorologique mondiale"
+  },
+  {
+    "id": "temperature-egg-white",
+    "category": "temperature",
+    "prompt": "À quelle température le blanc d'œuf commence-t-il à cuire ?",
+    "answer": 62.0,
+    "unit": "°C",
+    "fact": "Le jaune, lui, attend quelques degrés de plus : le secret de l'œuf parfait.",
+    "source": "Hervé This, INRAE"
+  },
+  {
+    "id": "temperature-everest-boil",
+    "category": "temperature",
+    "prompt": "À quelle température bout l'eau au sommet de l'Everest ?",
+    "answer": 70.0,
+    "unit": "°C",
+    "fact": "Impossible d'y réussir des pâtes : l'eau bout, mais pas assez chaude pour les cuire.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-chicken",
+    "category": "temperature",
+    "prompt": "Quelle température doit atteindre le cœur d'un poulet pour être cuit sans risque ?",
+    "answer": 74.0,
+    "unit": "°C",
+    "fact": "À cœur, pas en surface : un thermomètre de cuisine évite les mauvaises surprises.",
+    "source": "USDA"
+  },
+  {
+    "id": "temperature-ethanol-boil",
+    "category": "temperature",
+    "prompt": "À quelle température bout l'alcool pur, au niveau de la mer ?",
+    "answer": 78.4,
+    "unit": "°C",
+    "fact": "C'est le principe de l'alambic : l'alcool s'évapore avant l'eau.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-mont-blanc-boil",
+    "category": "temperature",
+    "prompt": "À quelle température bout l'eau au sommet du mont Blanc ?",
+    "answer": 84.0,
+    "unit": "°C",
+    "fact": "La pression y est presque deux fois plus faible qu'au niveau de la mer.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "temperature-ground-record",
+    "category": "temperature",
+    "prompt": "Quel est le record de température du sol sur Terre, mesuré dans la Vallée de la Mort ?",
+    "answer": 93.9,
+    "unit": "°C",
+    "fact": "Le 15 juillet 1972 : de quoi cuire un œuf à même le sol.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "temperature-moon-day",
+    "category": "temperature",
+    "prompt": "Quelle température fait-il en plein jour à l'équateur de la Lune ?",
+    "answer": 120.0,
+    "unit": "°C",
+    "fact": "Sans atmosphère pour garder la chaleur, la nuit y tombe vers -130 °C.",
+    "source": "NASA"
+  },
+  {
+    "id": "temperature-autoclave",
+    "category": "temperature",
+    "prompt": "À quelle température les hôpitaux stérilisent-ils leurs instruments à la vapeur ?",
+    "answer": 134.0,
+    "unit": "°C",
+    "fact": "De la vapeur sous pression, assez chaude pour tuer même les microbes les plus coriaces.",
+    "source": "Organisation mondiale de la santé"
+  },
+  {
+    "id": "temperature-tardigrade",
+    "category": "temperature",
+    "prompt": "Le tardigrade est un animal microscopique. Une fois desséché, quelle température supporte-t-il quelques minutes ?",
+    "answer": 151.0,
+    "unit": "°C",
+    "fact": "Ce minuscule animal survit aussi au vide spatial et à des radiations mortelles.",
+    "source": "Nature / Britannica"
+  },
+  {
+    "id": "temperature-caramel",
+    "category": "temperature",
+    "prompt": "À quelle température le sucre commence-t-il à caraméliser ?",
+    "answer": 160.0,
+    "unit": "°C",
+    "fact": "Quelques degrés de trop et le caramel blond tourne à l'amer.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-kola",
+    "category": "temperature",
+    "prompt": "Quelle température faisait-il au fond du trou le plus profond jamais creusé, en Russie ?",
+    "answer": 180.0,
+    "unit": "°C",
+    "fact": "Les Soviétiques attendaient 100 °C à 12 km : la chaleur a stoppé le forage.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-fahrenheit-451",
+    "category": "temperature",
+    "prompt": "D'après le titre du roman de Ray Bradbury, à quelle température le papier s'enflamme-t-il ?",
+    "answer": 233.0,
+    "unit": "°C",
+    "fact": "451 °F, c'est la température donnée au romancier par un pompier de Los Angeles.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-bismuth",
+    "category": "temperature",
+    "prompt": "À quelle température fond le bismuth, le métal aux cristaux arc-en-ciel ?",
+    "answer": 271.4,
+    "unit": "°C",
+    "fact": "Ses cristaux en escalier se forment quand on le laisse refroidir doucement.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-lead",
+    "category": "temperature",
+    "prompt": "À quelle température fond le plomb ?",
+    "answer": 327.5,
+    "unit": "°C",
+    "fact": "Assez bas pour que les Romains en fassent leurs canalisations, les plumbum.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-mercury-boil",
+    "category": "temperature",
+    "prompt": "À quelle température bout le mercure, le métal liquide des vieux thermomètres ?",
+    "answer": 356.7,
+    "unit": "°C",
+    "fact": "Ses vapeurs sont toxiques : c'est pour ça que les thermomètres au mercure sont interdits.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-zinc",
+    "category": "temperature",
+    "prompt": "À quelle température fond le zinc ?",
+    "answer": 419.5,
+    "unit": "°C",
+    "fact": "Les toits de Paris en sont couverts : on dit les toits en zinc.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-mercury-planet",
+    "category": "temperature",
+    "prompt": "Quelle température fait-il le jour sur Mercure, la planète la plus proche du Soleil ?",
+    "answer": 430.0,
+    "unit": "°C",
+    "fact": "Sans atmosphère pour garder la chaleur, la nuit y descend à -180 °C.",
+    "source": "NASA"
+  },
+  {
+    "id": "temperature-venus",
+    "category": "temperature",
+    "prompt": "Quelle est la température à la surface de Vénus ?",
+    "answer": 465.0,
+    "unit": "°C",
+    "fact": "Plus chaude que Mercure : son épaisse atmosphère garde la chaleur comme une couette.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-pizza",
+    "category": "temperature",
+    "prompt": "Selon l'association de la vraie pizza napolitaine, quelle température doit atteindre le plafond du four ?",
+    "answer": 485.0,
+    "unit": "°C",
+    "fact": "La pizza y cuit en 60 à 90 secondes, pas une de plus.",
+    "source": "Associazione Verace Pizza Napoletana"
+  },
+  {
+    "id": "temperature-pyrolysis",
+    "category": "temperature",
+    "prompt": "Quelle température atteint un four de cuisine en mode autonettoyage ?",
+    "answer": 500.0,
+    "unit": "°C",
+    "fact": "Les graisses sont réduites en cendres : un coup d'éponge suffit ensuite.",
+    "source": "ADEME"
+  },
+  {
+    "id": "temperature-lengai",
+    "category": "temperature",
+    "prompt": "Quelle est la température de la lave la plus froide du monde, celle d'un volcan de Tanzanie ?",
+    "answer": 510.0,
+    "unit": "°C",
+    "fact": "Elle est noire en plein jour et coule comme de l'huile.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "temperature-draper",
+    "category": "temperature",
+    "prompt": "À partir de quelle température tout objet chauffé commence-t-il à rougeoyer ?",
+    "answer": 525.0,
+    "unit": "°C",
+    "fact": "C'est le point de Draper, établi en 1847 par un pionnier de la photographie.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-magnesium",
+    "category": "temperature",
+    "prompt": "À quelle température fond le magnésium ?",
+    "answer": 650.0,
+    "unit": "°C",
+    "fact": "Allumé, il brûle d'une lumière si vive qu'on l'utilisait pour les flashs photo.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-aluminium",
+    "category": "temperature",
+    "prompt": "À quelle température fond l'aluminium ?",
+    "answer": 660.3,
+    "unit": "°C",
+    "fact": "Au XIXe siècle, il valait plus cher que l'or : Napoléon III en servait la vaisselle.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-glass",
+    "category": "temperature",
+    "prompt": "À quelle température le verre d'une vitre ramollit-il au point de se déformer sous son propre poids ?",
+    "answer": 726.0,
+    "unit": "°C",
+    "fact": "Les vitres anciennes plus épaisses en bas ? Un mythe : c'est la fabrication.",
+    "source": "Corning Museum of Glass"
+  },
+  {
+    "id": "temperature-iron-curie",
+    "category": "temperature",
+    "prompt": "À quelle température un aimant en fer perd-il son magnétisme ?",
+    "answer": 770.0,
+    "unit": "°C",
+    "fact": "C'est le point de Curie, du nom de Pierre Curie, mari de Marie.",
+    "source": "Britannica"
+  },
+  {
+    "id": "temperature-salt",
+    "category": "temperature",
+    "prompt": "À quelle température fond le sel de cuisine ?",
+    "answer": 801.0,
+    "unit": "°C",
+    "fact": "Les centrales solaires stockent la chaleur dans des cuves de sel fondu.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "temperature-cigarette",
+    "category": "temperature",
+    "prompt": "Quelle température atteint le bout d'une cigarette pendant une bouffée ?",
+    "answer": 900.0,
+    "unit": "°C",
+    "fact": "Entre deux bouffées, il redescend vers 600 °C, mais ne s'éteint pas.",
+    "source": "CORESTA"
+  },
+  {
+    "id": "temperature-silver",
+    "category": "temperature",
+    "prompt": "À quelle température fond l'argent ?",
+    "answer": 961.8,
+    "unit": "°C",
+    "fact": "Cette température sert de point de référence officiel pour l'échelle des températures.",
+    "source": "Bureau international des poids et mesures"
+  },
+  {
+    "id": "temperature-gold",
+    "category": "temperature",
+    "prompt": "À quelle température fond l'or ?",
+    "answer": 1064.2,
+    "unit": "°C",
+    "fact": "Bijoutiers et prothésistes dentaires le font fondre au chalumeau.",
+    "source": "World Gold Council"
+  },
+  {
+    "id": "temperature-copper",
+    "category": "temperature",
+    "prompt": "À quelle température fond le cuivre ?",
+    "answer": 1084.6,
+    "unit": "°C",
+    "fact": "Mélangé à l'étain, il devient le bronze, qui a donné son nom à un âge entier.",
+    "source": "Royal Society of Chemistry"
+  }
+]

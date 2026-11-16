@@ -1,0 +1,452 @@
+[
+  {
+    "id": "time-hummingbird-wing",
+    "category": "time",
+    "prompt": "Combien de temps dure un battement d'aile de colibri ?",
+    "answer": 0.014,
+    "unit": "s",
+    "fact": "C'est aussi le seul oiseau capable de voler en marche arrière.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "time-ac-cycle",
+    "category": "time",
+    "prompt": "Le courant de nos prises change de sens sans arrêt. Combien de temps dure un aller-retour complet, en Europe ?",
+    "answer": 0.02,
+    "unit": "s",
+    "fact": "De Lisbonne à Varsovie, tout le réseau électrique européen bat en parfaite synchronisation.",
+    "source": "RTE"
+  },
+  {
+    "id": "time-film-frame",
+    "category": "time",
+    "prompt": "Combien de temps reste affichée une image de cinéma ?",
+    "answer": 0.042,
+    "unit": "s",
+    "fact": "Une cadence figée à la fin des années 1920, à l'arrivée du cinéma parlant.",
+    "source": "SMPTE"
+  },
+  {
+    "id": "time-sprint-contact",
+    "category": "time",
+    "prompt": "Combien de temps le pied d'un sprinteur touche-t-il le sol à chaque foulée ?",
+    "answer": 0.08,
+    "unit": "s",
+    "fact": "Moins d'un dixième de seconde pour encaisser jusqu'à cinq fois son poids.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "time-light-earth-circle",
+    "category": "time",
+    "prompt": "Combien de temps met la lumière pour faire le tour de la Terre ?",
+    "answer": 0.134,
+    "unit": "s",
+    "fact": "Rien dans l'Univers ne va plus vite : c'est la limite absolue.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-reaction",
+    "category": "time",
+    "prompt": "Quel est le temps de réaction visuel moyen d'un humain ?",
+    "answer": 0.25,
+    "unit": "s",
+    "fact": "En dessous de 0,1 s au départ d'un 100 m, le sprinteur est disqualifié pour faux départ.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "time-blink",
+    "category": "time",
+    "prompt": "Combien de temps dure un clignement d'œil ?",
+    "answer": 0.35,
+    "unit": "s",
+    "fact": "On cligne environ 15 fois par minute, soit près de 10 % du temps éveillé.",
+    "source": "Harvard Health"
+  },
+  {
+    "id": "time-fall-1m",
+    "category": "time",
+    "prompt": "Combien de temps met un objet lâché d'un mètre pour toucher le sol ?",
+    "answer": 0.45,
+    "unit": "s",
+    "fact": "La masse n'y change rien : une plume tomberait aussi vite dans le vide.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-heartbeat",
+    "category": "time",
+    "prompt": "Combien de temps dure un battement de cœur au repos ?",
+    "answer": 0.86,
+    "unit": "s",
+    "fact": "Près de 2,5 milliards de battements dans une vie, sans jamais une pause.",
+    "source": "American Heart Association"
+  },
+  {
+    "id": "time-light-moon",
+    "category": "time",
+    "prompt": "Combien de temps met la lumière de la Lune pour nous parvenir ?",
+    "answer": 1.28,
+    "unit": "s",
+    "fact": "Les réflecteurs laissés par Apollo 11 servent encore à mesurer la distance au centimètre près.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-sound-km",
+    "category": "time",
+    "prompt": "Combien de temps met le son pour parcourir un kilomètre ?",
+    "answer": 2.9,
+    "unit": "s",
+    "fact": "D'où la règle de l'orage : compter les secondes entre l'éclair et le tonnerre donne la distance.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "time-100m",
+    "category": "time",
+    "prompt": "Quel est le record du monde du 100 mètres ?",
+    "answer": 9.58,
+    "unit": "s",
+    "fact": "Usain Bolt à Berlin en 2009, avec une pointe à 44,7 km/h.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "time-wright",
+    "category": "time",
+    "prompt": "Combien de temps a duré le premier vol des frères Wright ?",
+    "answer": 12,
+    "unit": "s",
+    "fact": "Trente-six mètres parcourus : moins que l'envergure d'un A380.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "time-blood-loop",
+    "category": "time",
+    "prompt": "Combien de temps met le sang à faire un tour complet du corps ?",
+    "answer": 60,
+    "unit": "s",
+    "fact": "Le cœur pompe environ 5 litres par minute au repos.",
+    "source": "British Heart Foundation"
+  },
+  {
+    "id": "time-mars-signal",
+    "category": "time",
+    "prompt": "Combien de temps met un signal radio pour aller de Mars à la Terre au plus proche ?",
+    "answer": 182,
+    "unit": "s",
+    "fact": "Au plus loin, il faut plus de 20 minutes : piloter un rover en direct est impossible.",
+    "source": "NASA JPL"
+  },
+  {
+    "id": "time-baumgartner-freefall",
+    "category": "time",
+    "prompt": "Combien de temps a duré la chute libre de Felix Baumgartner, lors de son saut depuis 39 km d'altitude en 2012 ?",
+    "answer": 260,
+    "unit": "s",
+    "fact": "Il a franchi le mur du son sans aucun véhicule, avant d'ouvrir son parachute.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "time-sunlight",
+    "category": "time",
+    "prompt": "Combien de temps met la lumière du Soleil pour atteindre la Terre ?",
+    "answer": 499,
+    "unit": "s",
+    "fact": "Si le Soleil s'éteignait, tu ne t'en rendrais compte qu'après coup.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-shortest-war",
+    "category": "time",
+    "prompt": "Combien de temps a duré la guerre la plus courte de l'histoire ?",
+    "answer": 2280,
+    "unit": "s",
+    "fact": "Le Royaume-Uni contre Zanzibar, le 27 août 1896 : le sultan avait fui son palais avant la fin du bombardement.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "time-iss-orbit",
+    "category": "time",
+    "prompt": "Combien de temps met la Station spatiale internationale pour faire le tour de la Terre ?",
+    "answer": 5580,
+    "unit": "s",
+    "fact": "Seize levers de soleil par jour pour l'équipage.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-marathon-record",
+    "category": "time",
+    "prompt": "Selon World Athletics, quel était le record du monde masculin du marathon en 2026 ?",
+    "answer": 7170,
+    "unit": "s",
+    "fact": "Sabastian Sawe à Londres en avril 2026, une barrière qu'on croyait infranchissable en course officielle.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "time-moonwalk",
+    "category": "time",
+    "prompt": "Combien de temps Armstrong et Aldrin ont-ils passé dehors, à marcher sur la Lune ?",
+    "answer": 9100,
+    "unit": "s",
+    "fact": "À peine le temps de planter le drapeau, ramasser 21 kg de cailloux et téléphoner au président.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-titanic-film",
+    "category": "time",
+    "prompt": "Combien de temps dure le film Titanic de James Cameron ?",
+    "answer": 11640,
+    "unit": "s",
+    "fact": "Le vrai paquebot, lui, a sombré en 2 h 40, moins que la durée du film.",
+    "source": "British Board of Film Classification"
+  },
+  {
+    "id": "time-caffeine",
+    "category": "time",
+    "prompt": "Au bout de combien de temps la moitié de la caféine bue a-t-elle quitté le corps ?",
+    "answer": 18000,
+    "unit": "s",
+    "fact": "Un café de 16 h agit donc encore un peu au moment du coucher.",
+    "source": "National Institutes of Health"
+  },
+  {
+    "id": "time-paris-ny",
+    "category": "time",
+    "prompt": "Combien de temps dure un vol direct Paris → New York ?",
+    "answer": 28800,
+    "unit": "s",
+    "fact": "Le retour est plus court d'une heure : un vent très fort, en altitude, pousse l'avion.",
+    "source": "Airbus"
+  },
+  {
+    "id": "time-isner-mahut",
+    "category": "time",
+    "prompt": "Combien de temps a duré le plus long match de tennis de l'histoire ?",
+    "answer": 39900,
+    "unit": "s",
+    "fact": "Isner contre Mahut, Wimbledon 2010, étalé sur trois jours : le dernier set s'est fini à 70-68.",
+    "source": "Wimbledon"
+  },
+  {
+    "id": "time-longest-flight",
+    "category": "time",
+    "prompt": "En 2025, combien de temps durait le plus long vol commercial régulier sans escale ?",
+    "answer": 67200,
+    "unit": "s",
+    "fact": "New York - Singapour, plus de 15 000 km d'une traite sans escale.",
+    "source": "Singapore Airlines"
+  },
+  {
+    "id": "time-lindbergh",
+    "category": "time",
+    "prompt": "Combien de temps a duré la traversée de l'Atlantique par Lindbergh ?",
+    "answer": 120600,
+    "unit": "s",
+    "fact": "Seul, sans dormir et sans radio, avec des sandwichs pour tout repas.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "time-moon-trip",
+    "category": "time",
+    "prompt": "Combien de temps a mis Apollo 11 entre son décollage et son arrivée en orbite autour de la Lune ?",
+    "answer": 273000,
+    "unit": "s",
+    "fact": "384 000 km parcourus, l'essentiel moteurs coupés, en roue libre.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-apollo11",
+    "category": "time",
+    "prompt": "Combien de temps a duré la mission Apollo 11 en entier ?",
+    "answer": 703000,
+    "unit": "s",
+    "fact": "Du décollage en Floride à l'amerrissage dans le Pacifique, suivi d'une quarantaine de trois semaines.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-awake-record",
+    "category": "time",
+    "prompt": "En 1964, un lycéen américain a établi le record de temps sans dormir sous suivi médical. Combien de temps est-il resté éveillé ?",
+    "answer": 950400,
+    "unit": "s",
+    "fact": "Randy Gardner a ensuite dormi quatorze heures d'affilée, sans séquelle durable.",
+    "source": "NPR"
+  },
+  {
+    "id": "time-tour-de-france",
+    "category": "time",
+    "prompt": "Combien de temps dure le Tour de France, du départ à l'arrivée à Paris ?",
+    "answer": 1987200,
+    "unit": "s",
+    "fact": "Vingt et une étapes, deux jours de repos et environ 3 500 km.",
+    "source": "Amaury Sport Organisation"
+  },
+  {
+    "id": "time-lunar-month",
+    "category": "time",
+    "prompt": "Combien de temps dure un cycle complet de la Lune, d'une nouvelle lune à la suivante ?",
+    "answer": 2551443,
+    "unit": "s",
+    "fact": "La base de presque tous les calendriers anciens, et encore du calendrier musulman.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-vendee-globe",
+    "category": "time",
+    "prompt": "Quel est le record du Vendée Globe, le tour du monde à la voile en solitaire et sans escale ?",
+    "answer": 5599369,
+    "unit": "s",
+    "fact": "Charlie Dalin en 2025, plus de neuf jours plus vite que le précédent record.",
+    "source": "Vendée Globe"
+  },
+  {
+    "id": "time-mercury-year",
+    "category": "time",
+    "prompt": "Combien de temps dure une année sur Mercure ?",
+    "answer": 7600000,
+    "unit": "s",
+    "fact": "Un seul jour solaire y dure deux de ses années.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-red-blood-cell",
+    "category": "time",
+    "prompt": "Combien de temps vit un globule rouge ?",
+    "answer": 10368000,
+    "unit": "s",
+    "fact": "La moelle osseuse en fabrique deux millions par seconde pour compenser.",
+    "source": "National Institutes of Health"
+  },
+  {
+    "id": "time-pregnancy",
+    "category": "time",
+    "prompt": "Combien de temps dure une grossesse humaine ?",
+    "answer": 24192000,
+    "unit": "s",
+    "fact": "Comptée depuis les dernières règles, pas depuis la conception.",
+    "source": "Organisation mondiale de la santé"
+  },
+  {
+    "id": "time-space-record",
+    "category": "time",
+    "prompt": "Quel est le record de séjour continu dans l'espace ?",
+    "answer": 37821600,
+    "unit": "s",
+    "fact": "Valeri Poliakov, à bord de la station Mir, de janvier 1994 à mars 1995.",
+    "source": "Roscosmos"
+  },
+  {
+    "id": "time-mars-year",
+    "category": "time",
+    "prompt": "Combien de temps dure une année sur Mars ?",
+    "answer": 59355072,
+    "unit": "s",
+    "fact": "Presque deux années terrestres, d'où des saisons deux fois plus longues.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-light-proxima",
+    "category": "time",
+    "prompt": "Combien de temps met la lumière du Soleil pour atteindre l'étoile la plus proche ?",
+    "answer": 133800000,
+    "unit": "s",
+    "fact": "Proxima du Centaure, notre plus proche voisine après le Soleil.",
+    "source": "ESA"
+  },
+  {
+    "id": "time-ww2",
+    "category": "time",
+    "prompt": "Combien de temps a duré la Seconde Guerre mondiale en Europe ?",
+    "answer": 179400000,
+    "unit": "s",
+    "fact": "Du 1er septembre 1939, invasion de la Pologne, au 8 mai 1945.",
+    "source": "Mémorial de Caen"
+  },
+  {
+    "id": "time-rosetta",
+    "category": "time",
+    "prompt": "Combien de temps a voyagé la sonde Rosetta pour rejoindre sa comète ?",
+    "answer": 329000000,
+    "unit": "s",
+    "fact": "Son robot Philae a ensuite rebondi deux fois avant de se coincer à l'ombre d'une falaise.",
+    "source": "ESA"
+  },
+  {
+    "id": "time-plastic-bag",
+    "category": "time",
+    "prompt": "Selon l'agence américaine des océans (NOAA), combien de temps met un sac plastique à se dégrader dans la mer ?",
+    "answer": 630720000,
+    "unit": "s",
+    "fact": "Il ne disparaît pas : il se fragmente en microplastiques.",
+    "source": "NOAA"
+  },
+  {
+    "id": "time-mandela",
+    "category": "time",
+    "prompt": "Combien de temps Nelson Mandela a-t-il passé en prison ?",
+    "answer": 852000000,
+    "unit": "s",
+    "fact": "Libéré en 1990, il est élu président de l'Afrique du Sud quatre ans plus tard.",
+    "source": "Fondation Nelson Mandela"
+  },
+  {
+    "id": "time-louis-xiv",
+    "category": "time",
+    "prompt": "Combien de temps a régné Louis XIV ?",
+    "answer": 2280000000,
+    "unit": "s",
+    "fact": "Devenu roi à quatre ans, il a enterré son fils et son petit-fils avant de mourir.",
+    "source": "Château de Versailles"
+  },
+  {
+    "id": "time-hundred-years-war",
+    "category": "time",
+    "prompt": "Combien de temps a duré la guerre de Cent Ans ?",
+    "answer": 3660000000,
+    "unit": "s",
+    "fact": "Elle n'a pas duré cent ans, et elle a connu de longues trêves.",
+    "source": "Britannica"
+  },
+  {
+    "id": "time-neptune-year",
+    "category": "time",
+    "prompt": "Combien de temps dure une année sur Neptune ?",
+    "answer": 5200000000,
+    "unit": "s",
+    "fact": "Découverte en 1846, la planète n'a bouclé son premier tour qu'en 2011.",
+    "source": "NASA"
+  },
+  {
+    "id": "time-romanov",
+    "category": "time",
+    "prompt": "Combien de temps la dynastie des Romanov a-t-elle régné sur la Russie ?",
+    "answer": 9590000000,
+    "unit": "s",
+    "fact": "Elle commence avec un tsar de 16 ans et s'achève par l'abdication de Nicolas II en 1917.",
+    "source": "Britannica"
+  },
+  {
+    "id": "time-plastic-bottle",
+    "category": "time",
+    "prompt": "Combien de temps met une bouteille en plastique à se dégrader dans la nature ?",
+    "answer": 14200000000,
+    "unit": "s",
+    "fact": "Environ 450 ans, mais elle se fragmente en microplastiques bien avant.",
+    "source": "NOAA"
+  },
+  {
+    "id": "time-ottoman",
+    "category": "time",
+    "prompt": "Combien de temps a duré l'Empire ottoman ?",
+    "answer": 19700000000,
+    "unit": "s",
+    "fact": "Fondé vers 1299, aboli en 1922, à cheval sur trois continents.",
+    "source": "Britannica"
+  },
+  {
+    "id": "time-holy-roman-empire",
+    "category": "time",
+    "prompt": "Combien de temps a duré le Saint-Empire romain germanique ?",
+    "answer": 26630000000,
+    "unit": "s",
+    "fact": "Né du couronnement d'Otton Ier, il a été dissous sous la pression de Napoléon en 1806.",
+    "source": "Britannica"
+  }
+]

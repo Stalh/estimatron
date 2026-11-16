@@ -1,0 +1,452 @@
+[
+  {
+    "id": "count-mars-moons",
+    "category": "count",
+    "prompt": "Combien de lunes tournent autour de Mars ?",
+    "answer": 2,
+    "unit": "count",
+    "fact": "Phobos se rapproche de Mars de près de 2 m par siècle et finira disloquée en anneau.",
+    "source": "NASA"
+  },
+  {
+    "id": "count-octopus-hearts",
+    "category": "count",
+    "prompt": "Combien de cœurs possède une pieuvre ?",
+    "answer": 3,
+    "unit": "count",
+    "fact": "Son cœur principal s'arrête quand elle nage : voilà pourquoi elle préfère ramper.",
+    "source": "Smithsonian"
+  },
+  {
+    "id": "count-dwarf-planets",
+    "category": "count",
+    "prompt": "Combien de planètes naines sont officiellement reconnues dans le Système solaire ?",
+    "answer": 5,
+    "unit": "count",
+    "fact": "Pluton a rejoint cette catégorie en 2006, 76 ans après sa découverte.",
+    "source": "Union astronomique internationale"
+  },
+  {
+    "id": "count-giraffe-neck",
+    "category": "count",
+    "prompt": "Combien de vertèbres compte le cou d'une girafe ?",
+    "answer": 7,
+    "unit": "count",
+    "fact": "Autant que la souris ou l'humain, mais chacune peut dépasser 25 cm.",
+    "source": "Britannica"
+  },
+  {
+    "id": "count-muses",
+    "category": "count",
+    "prompt": "Combien de Muses compte la mythologie grecque ?",
+    "answer": 9,
+    "unit": "count",
+    "fact": "Elles sont les filles de Zeus et de Mnémosyne, la déesse de la mémoire.",
+    "source": "Britannica"
+  },
+  {
+    "id": "count-nadal-roland",
+    "category": "count",
+    "prompt": "Combien de fois Rafael Nadal a-t-il remporté Roland-Garros ?",
+    "answer": 14,
+    "unit": "count",
+    "fact": "Son bilan sur la terre battue parisienne : 112 victoires pour seulement 4 défaites.",
+    "source": "FFT"
+  },
+  {
+    "id": "count-rubik-moves",
+    "category": "count",
+    "prompt": "Même très bien mélangé, un Rubik's Cube peut toujours être résolu en combien de mouvements au maximum ?",
+    "answer": 20,
+    "unit": "count",
+    "fact": "Il a fallu 35 années de calcul d'ordinateur, offertes par Google, pour le prouver en 2010.",
+    "source": "cube20.org"
+  },
+  {
+    "id": "count-paris-seine-bridges",
+    "category": "count",
+    "prompt": "Combien de ponts et passerelles enjambent la Seine dans Paris ?",
+    "answer": 37,
+    "unit": "count",
+    "fact": "Malgré son nom, le Pont-Neuf est le plus ancien encore debout : il a été achevé en 1607.",
+    "source": "Ville de Paris"
+  },
+  {
+    "id": "count-piano-keys",
+    "category": "count",
+    "prompt": "Combien de touches compte un piano moderne ?",
+    "answer": 88,
+    "unit": "count",
+    "fact": "Mozart jouait sur des claviers d'à peine cinq octaves : le standard actuel date des années 1880.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "count-chemical-elements",
+    "category": "count",
+    "prompt": "Combien d'éléments chimiques compte le tableau périodique ?",
+    "answer": 118,
+    "unit": "count",
+    "fact": "Les quatre derniers ont été baptisés en 2016, dont le nihonium, premier découvert en Asie.",
+    "source": "IUPAC"
+  },
+  {
+    "id": "count-pokemon-gen1",
+    "category": "count",
+    "prompt": "Combien de Pokémon existaient dans les tout premiers jeux, Rouge et Bleu ?",
+    "answer": 151,
+    "unit": "count",
+    "fact": "Mew a été ajouté en douce par un programmeur dans l'espace libre du jeu, juste avant la sortie.",
+    "source": "The Pokémon Company"
+  },
+  {
+    "id": "count-human-bones",
+    "category": "count",
+    "prompt": "Combien d'os compte le squelette d'un adulte ?",
+    "answer": 206,
+    "unit": "count",
+    "fact": "Un nouveau-né en a environ 300 : beaucoup fusionnent en grandissant.",
+    "source": "Britannica"
+  },
+  {
+    "id": "count-chambord-chimneys",
+    "category": "count",
+    "prompt": "Combien de cheminées compte le château de Chambord ?",
+    "answer": 282,
+    "unit": "count",
+    "fact": "Son escalier à double révolution permet de monter et de descendre sans jamais se croiser.",
+    "source": "Domaine national de Chambord"
+  },
+  {
+    "id": "count-versailles-mirrors",
+    "category": "count",
+    "prompt": "Combien de miroirs ornent la galerie des Glaces de Versailles ?",
+    "answer": 357,
+    "unit": "count",
+    "fact": "Pour les fabriquer, Colbert a débauché des verriers de Venise, qui interdisait à ses artisans de partir.",
+    "source": "Château de Versailles"
+  },
+  {
+    "id": "count-louvre-pyramid",
+    "category": "count",
+    "prompt": "Combien de panneaux de verre forment la pyramide du Louvre ?",
+    "answer": 673,
+    "unit": "count",
+    "fact": "Une rumeur tenace en annonce 666, le nombre de la Bête.",
+    "source": "Musée du Louvre"
+  },
+  {
+    "id": "count-moai",
+    "category": "count",
+    "prompt": "Combien de moaï, les statues géantes, ont été sculptés sur l'île de Pâques ?",
+    "answer": 900,
+    "unit": "count",
+    "fact": "Ceux qui sont debout tournent presque tous le dos à l'océan pour veiller sur les villages.",
+    "source": "UNESCO"
+  },
+  {
+    "id": "count-millipede-legs",
+    "category": "count",
+    "prompt": "Combien de pattes possède le record du monde chez les mille-pattes ?",
+    "answer": 1306,
+    "unit": "count",
+    "fact": "Découvert en 2021 à 60 m sous terre en Australie, c'est le premier à en avoir vraiment plus de mille.",
+    "source": "Scientific Reports"
+  },
+  {
+    "id": "count-queen-bee-eggs",
+    "category": "count",
+    "prompt": "Combien d'œufs une reine abeille peut-elle pondre en une journée ?",
+    "answer": 2000,
+    "unit": "count",
+    "fact": "En pleine saison, elle pond chaque jour à peu près son propre poids en œufs.",
+    "source": "INRAE"
+  },
+  {
+    "id": "count-languages",
+    "category": "count",
+    "prompt": "Combien de langues sont parlées dans le monde aujourd'hui ?",
+    "answer": 7000,
+    "unit": "count",
+    "fact": "Près de 40 % d'entre elles sont menacées de disparition.",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "count-niesen-stairs",
+    "category": "count",
+    "prompt": "Combien de marches compte le plus long escalier du monde, sur le mont Niesen en Suisse ?",
+    "answer": 11674,
+    "unit": "count",
+    "fact": "Il longe un funiculaire et n'est ouvert au public qu'une fois par an, pour une course.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "count-iliad-verses",
+    "category": "count",
+    "prompt": "Combien de vers compte l'Iliade d'Homère ?",
+    "answer": 15693,
+    "unit": "count",
+    "fact": "Elle ne raconte que quelques semaines de la guerre de Troie, et le fameux cheval n'y apparaît pas.",
+    "source": "Britannica"
+  },
+  {
+    "id": "count-human-genes",
+    "category": "count",
+    "prompt": "Combien de gènes contient notre ADN ? On compte ceux qui fabriquent nos protéines.",
+    "answer": 20000,
+    "unit": "count",
+    "fact": "La daphnie, minuscule crustacé d'eau douce, en possède environ 31 000.",
+    "source": "NHGRI"
+  },
+  {
+    "id": "count-french-communes",
+    "category": "count",
+    "prompt": "Combien de communes compte la France ?",
+    "answer": 35000,
+    "unit": "count",
+    "fact": "La plus petite, Castelmoron-d'Albret en Gironde, tient sur 3,5 hectares.",
+    "source": "INSEE"
+  },
+  {
+    "id": "count-hair",
+    "category": "count",
+    "prompt": "Combien de cheveux poussent en moyenne sur une tête humaine ?",
+    "answer": 100000,
+    "unit": "count",
+    "fact": "Les blonds en ont nettement plus que les roux, qui ont en revanche des cheveux plus épais.",
+    "source": "Inserm"
+  },
+  {
+    "id": "count-finland-lakes",
+    "category": "count",
+    "prompt": "Combien de lacs compte la Finlande ?",
+    "answer": 187888,
+    "unit": "count",
+    "fact": "Ça fait environ un lac pour trente Finlandais.",
+    "source": "Institut finlandais de l'environnement (Syke)"
+  },
+  {
+    "id": "count-tictactoe-games",
+    "category": "count",
+    "prompt": "Combien de parties différentes peut-on jouer au morpion ?",
+    "answer": 255168,
+    "unit": "count",
+    "fact": "Si les deux joueurs jouent parfaitement, la partie finit toujours en match nul.",
+    "source": "Wolfram MathWorld"
+  },
+  {
+    "id": "count-beetle-species",
+    "category": "count",
+    "prompt": "Combien d'espèces de coléoptères (scarabées, coccinelles…) ont été décrites par les scientifiques ?",
+    "answer": 400000,
+    "unit": "count",
+    "fact": "Près d'une espèce animale connue sur quatre est un coléoptère.",
+    "source": "Muséum national d'Histoire naturelle"
+  },
+  {
+    "id": "count-sydney-opera-tiles",
+    "category": "count",
+    "prompt": "Combien de tuiles recouvrent les voiles de l'Opéra de Sydney ?",
+    "answer": 1056006,
+    "unit": "count",
+    "fact": "Fabriquées en Suède, elles se nettoient presque toutes seules à chaque pluie.",
+    "source": "Sydney Opera House"
+  },
+  {
+    "id": "count-poker-hands",
+    "category": "count",
+    "prompt": "Combien de mains de 5 cartes différentes peut-on tirer d'un jeu de 52 cartes ?",
+    "answer": 2598960,
+    "unit": "count",
+    "fact": "Une quinte flush royale ne sort en moyenne qu'une fois sur 649 740.",
+    "source": "Wolfram MathWorld"
+  },
+  {
+    "id": "count-eiffel-visitors-2024",
+    "category": "count",
+    "prompt": "Combien de visiteurs sont montés sur la tour Eiffel en 2024 ?",
+    "answer": 6300000,
+    "unit": "count",
+    "fact": "Les Français restent les plus nombreux, devant les Américains.",
+    "source": "Société d'exploitation de la tour Eiffel (SETE)"
+  },
+  {
+    "id": "count-4k-pixels",
+    "category": "count",
+    "prompt": "Combien de pixels compte un écran 4K ?",
+    "answer": 8294400,
+    "unit": "count",
+    "fact": "Le vrai 4K du cinéma est un poil plus large, avec 4 096 pixels par ligne.",
+    "source": "DCI"
+  },
+  {
+    "id": "count-ford-t",
+    "category": "count",
+    "prompt": "Combien de Ford T sont sorties des usines entre 1908 et 1927 ?",
+    "answer": 15000000,
+    "unit": "count",
+    "fact": "Henry Ford la proposait « dans n'importe quelle couleur, du moment que c'est noir ».",
+    "source": "Ford Motor Company"
+  },
+  {
+    "id": "count-bitcoin-supply",
+    "category": "count",
+    "prompt": "Combien de bitcoins pourront exister au maximum ?",
+    "answer": 21000000,
+    "unit": "count",
+    "fact": "Le tout dernier ne devrait être créé que vers l'an 2140.",
+    "source": "Bitcoin whitepaper"
+  },
+  {
+    "id": "count-tetris-gameboy",
+    "category": "count",
+    "prompt": "Combien d'exemplaires de Tetris sur Game Boy ont été vendus ?",
+    "answer": 35000000,
+    "unit": "count",
+    "fact": "Son créateur soviétique, Alexeï Pajitnov, n'a touché aucun droit dessus avant 1996.",
+    "source": "Nintendo"
+  },
+  {
+    "id": "count-snes-sales",
+    "category": "count",
+    "prompt": "Combien de Super Nintendo ont été vendues dans le monde ?",
+    "answer": 49100000,
+    "unit": "count",
+    "fact": "Sa manette a introduit les gâchettes L et R, devenues la norme sur toutes les consoles.",
+    "source": "Nintendo"
+  },
+  {
+    "id": "count-ps1-sales",
+    "category": "count",
+    "prompt": "Combien de PlayStation, la toute première, ont été vendues dans le monde ?",
+    "answer": 102490000,
+    "unit": "count",
+    "fact": "Elle est née d'un lecteur CD conçu pour Nintendo, qui a lâché Sony au dernier moment.",
+    "source": "Sony Interactive Entertainment"
+  },
+  {
+    "id": "count-euromillions",
+    "category": "count",
+    "prompt": "Combien de combinaisons différentes existe-t-il à l'EuroMillions ?",
+    "answer": 139838160,
+    "unit": "count",
+    "fact": "En jouant une grille par seconde, il faudrait plus de quatre ans pour toutes les couvrir.",
+    "source": "FDJ"
+  },
+  {
+    "id": "count-sunfish-eggs",
+    "category": "count",
+    "prompt": "Combien d'œufs un poisson-lune femelle peut-il pondre en une seule fois ?",
+    "answer": 300000000,
+    "unit": "count",
+    "fact": "Adulte, il peut peser 60 millions de fois plus lourd qu'à l'éclosion.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "count-twelve-books",
+    "category": "count",
+    "prompt": "Combien d'ordres différents existe-t-il pour ranger 12 livres sur une étagère ?",
+    "answer": 479001600,
+    "unit": "count",
+    "fact": "Avec un seul livre de plus, on dépasse déjà les 6 milliards.",
+    "source": "Wolfram MathWorld"
+  },
+  {
+    "id": "count-lego-six-bricks",
+    "category": "count",
+    "prompt": "Combien de façons y a-t-il d'assembler six briques Lego 2×4 de la même couleur ?",
+    "answer": 915103765,
+    "unit": "count",
+    "fact": "LEGO avait d'abord annoncé environ 102 millions, un calcul qui oubliait de nombreuses formes.",
+    "source": "Université de Copenhague"
+  },
+  {
+    "id": "count-world-cattle",
+    "category": "count",
+    "prompt": "Combien de bovins (vaches, bœufs, taureaux…) vivent sur la planète ?",
+    "answer": 1570000000,
+    "unit": "count",
+    "fact": "Le Brésil compte plus de vaches que d'habitants.",
+    "source": "FAO (FAOSTAT, 2023)"
+  },
+  {
+    "id": "count-dna-base-pairs",
+    "category": "count",
+    "prompt": "Notre ADN s'écrit avec des « lettres » chimiques, rangées par paires. Combien de paires en compte-t-il ?",
+    "answer": 3000000000,
+    "unit": "count",
+    "fact": "Déroulé, l'ADN d'une seule de tes cellules mesurerait environ 2 mètres.",
+    "source": "NHGRI"
+  },
+  {
+    "id": "count-ipv4",
+    "category": "count",
+    "prompt": "Chaque appareil connecté à Internet reçoit un numéro, son adresse. Combien d'adresses différentes permet l'ancien système de numéros, l'IPv4 ?",
+    "answer": 4294967296,
+    "unit": "count",
+    "fact": "Le stock mondial a été épuisé dès 2011 : on passe peu à peu à un nouveau système, bien plus vaste.",
+    "source": "IANA"
+  },
+  {
+    "id": "count-sudoku-grids",
+    "category": "count",
+    "prompt": "Combien de grilles de sudoku vraiment différentes existe-t-il, si on compte une seule fois celles qu'on obtient en tournant la grille ou en échangeant les chiffres ?",
+    "answer": 5472730538,
+    "unit": "count",
+    "fact": "En comptant toutes les variantes, on passe à plus de 6 600 milliards de milliards.",
+    "source": "Russell & Jarvis, 2006"
+  },
+  {
+    "id": "count-apple-m1",
+    "category": "count",
+    "prompt": "Combien de transistors, de minuscules interrupteurs, contient la puce Apple M1 des Mac ?",
+    "answer": 16000000000,
+    "unit": "count",
+    "fact": "Le tout premier microprocesseur, l'Intel 4004 de 1971, en comptait 2 300.",
+    "source": "Apple"
+  },
+  {
+    "id": "count-brain-neurons",
+    "category": "count",
+    "prompt": "Combien de neurones contient un cerveau humain ?",
+    "answer": 86000000000,
+    "unit": "count",
+    "fact": "Le cervelet, à peine 10 % du volume du cerveau, en abrite environ 80 %.",
+    "source": "Herculano-Houzel, 2009"
+  },
+  {
+    "id": "count-euro-coins",
+    "category": "count",
+    "prompt": "Combien de pièces en euros sont en circulation en 2026 ?",
+    "answer": 150000000000,
+    "unit": "count",
+    "fact": "Les pièces de 1 et 2 centimes coûtent plus cher à fabriquer qu'elles ne valent.",
+    "source": "Banque centrale européenne"
+  },
+  {
+    "id": "count-elephant-neurons",
+    "category": "count",
+    "prompt": "Combien de neurones contient le cerveau d'un éléphant d'Afrique ?",
+    "answer": 257000000000,
+    "unit": "count",
+    "fact": "Son cortex, la partie du cerveau qui réfléchit, en compte pourtant trois fois moins que le nôtre.",
+    "source": "Herculano-Houzel, 2014"
+  },
+  {
+    "id": "count-amazon-trees",
+    "category": "count",
+    "prompt": "Combien d'arbres poussent dans la forêt amazonienne ?",
+    "answer": 390000000000,
+    "unit": "count",
+    "fact": "Sur 16 000 espèces, seulement 227 représentent la moitié de tous ces arbres.",
+    "source": "Science, 2013"
+  },
+  {
+    "id": "count-bridge-hands",
+    "category": "count",
+    "prompt": "Combien de mains différentes de 13 cartes peut-on recevoir au bridge ?",
+    "answer": 635013559600,
+    "unit": "count",
+    "fact": "Recevoir les 13 cartes d'une même couleur n'arrive qu'une fois sur 158 milliards de donnes.",
+    "source": "Wolfram MathWorld"
+  }
+]

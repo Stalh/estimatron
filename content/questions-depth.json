@@ -1,0 +1,452 @@
+[
+  {
+    "id": "depth-nhl-ice",
+    "category": "depth",
+    "prompt": "Quelle est l'épaisseur de la glace d'une patinoire de hockey professionnel nord-américain (NHL) ?",
+    "answer": 0.019,
+    "unit": "m",
+    "fact": "Le blanc n'est pas la glace : c'est une couche de peinture prise en sandwich entre deux couches d'eau gelée.",
+    "source": "National Hockey League"
+  },
+  {
+    "id": "depth-atmosphere-water",
+    "category": "depth",
+    "prompt": "Si toute l'eau de l'atmosphère tombait d'un coup en pluie, quelle épaisseur couvrirait la Terre ?",
+    "answer": 0.025,
+    "unit": "m",
+    "fact": "Cette eau se renouvelle pourtant entièrement en une dizaine de jours.",
+    "source": "USGS"
+  },
+  {
+    "id": "depth-cpr",
+    "category": "depth",
+    "prompt": "Lors d'un massage cardiaque sur un adulte, de combien faut-il enfoncer la poitrine à chaque compression ?",
+    "answer": 0.05,
+    "unit": "m",
+    "fact": "Le bon rythme est celui de « Stayin' Alive » des Bee Gees : 100 à 120 compressions par minute.",
+    "source": "European Resuscitation Council"
+  },
+  {
+    "id": "depth-deepsea-challenger",
+    "category": "depth",
+    "prompt": "Quelle est l'épaisseur de l'acier de la cabine du sous-marin de James Cameron, qui a plongé au fond de l'océan ?",
+    "answer": 0.064,
+    "unit": "m",
+    "fact": "L'habitacle était si étroit que Cameron devait y rester recroquevillé, genoux pliés, pendant des heures.",
+    "source": "National Geographic"
+  },
+  {
+    "id": "depth-snow-water",
+    "category": "depth",
+    "prompt": "Quelle épaisseur de neige fraîche faut-il pour obtenir 1 cm d'eau une fois fondue ?",
+    "answer": 0.1,
+    "unit": "m",
+    "fact": "Une poudreuse très sèche de haute montagne peut tripler ce chiffre.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "depth-safe-ice",
+    "category": "depth",
+    "prompt": "Quelle épaisseur de glace faut-il au minimum pour marcher seul en sécurité sur un lac gelé ?",
+    "answer": 0.15,
+    "unit": "m",
+    "fact": "Pour un groupe de patineurs, il en faut un tiers de plus, et pour une motoneige 25 cm.",
+    "source": "Croix-Rouge canadienne"
+  },
+  {
+    "id": "depth-sea-level-rise",
+    "category": "depth",
+    "prompt": "De combien le niveau moyen des mers a-t-il monté depuis 1900 ?",
+    "answer": 0.2,
+    "unit": "m",
+    "fact": "Le rythme actuel est environ trois fois plus rapide qu'au début du XXe siècle.",
+    "source": "GIEC, 6e rapport"
+  },
+  {
+    "id": "depth-car-flood",
+    "category": "depth",
+    "prompt": "Quelle hauteur d'eau en mouvement suffit à emporter la plupart des voitures ?",
+    "answer": 0.3,
+    "unit": "m",
+    "fact": "Aux États-Unis, plus de la moitié des noyades liées aux crues surviennent dans un véhicule.",
+    "source": "National Weather Service (NOAA)"
+  },
+  {
+    "id": "depth-beach-volley",
+    "category": "depth",
+    "prompt": "Quelle profondeur de sable minimale exige un terrain officiel de beach-volley ?",
+    "answer": 0.4,
+    "unit": "m",
+    "fact": "Le sable doit aussi être tamisé : ni cailloux, ni coquillages, ni rien qui puisse couper un plongeon.",
+    "source": "FIVB, Règles officielles du beach-volley"
+  },
+  {
+    "id": "depth-kitchen",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur standard d'un meuble bas de cuisine ?",
+    "answer": 0.6,
+    "unit": "m",
+    "fact": "C'est pour ça que ton lave-vaisselle, ton four et ton frigo encastrable font tous la même profondeur.",
+    "source": "Norme NF EN 1116"
+  },
+  {
+    "id": "depth-sea-level-2100",
+    "category": "depth",
+    "prompt": "Si la pollution du climat continue de grimper, de combien la mer devrait-elle monter d'ici 2100, selon la prévision moyenne des experts (GIEC) ?",
+    "answer": 0.77,
+    "unit": "m",
+    "fact": "Les experts n'excluent pas près de 2 m si les glaces des pôles s'effondrent.",
+    "source": "GIEC, 6e rapport"
+  },
+  {
+    "id": "depth-grave",
+    "category": "depth",
+    "prompt": "En France, quelle profondeur minimale la loi impose-t-elle pour creuser une tombe en pleine terre ?",
+    "answer": 1.5,
+    "unit": "m",
+    "fact": "La même règle interdit d'y enterrer quelqu'un d'autre avant au moins 5 ans.",
+    "source": "Code général des collectivités territoriales, art. R2223-3"
+  },
+  {
+    "id": "depth-paris-2024-pool",
+    "category": "depth",
+    "prompt": "Quelle était la profondeur du bassin de natation des JO de Paris 2024 ?",
+    "answer": 2.15,
+    "unit": "m",
+    "fact": "Moins profond que les 3 m recommandés, il a été accusé de ralentir les nageurs à cause des remous.",
+    "source": "World Aquatics"
+  },
+  {
+    "id": "depth-balaton",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur moyenne du lac Balaton, le plus grand lac d'Europe centrale ?",
+    "answer": 3.2,
+    "unit": "m",
+    "fact": "Si peu profond qu'il se réchauffe très vite : l'eau dépasse souvent 25 °C en été.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "depth-diving-platform",
+    "category": "depth",
+    "prompt": "Quelle profondeur d'eau est recommandée sous un plongeoir de 10 m en compétition ?",
+    "answer": 5,
+    "unit": "m",
+    "fact": "Les plongeurs touchent l'eau à environ 50 km/h.",
+    "source": "World Aquatics"
+  },
+  {
+    "id": "depth-greenland-melt",
+    "category": "depth",
+    "prompt": "De combien monterait le niveau des mers si toute la glace du Groenland fondait ?",
+    "answer": 7.4,
+    "unit": "m",
+    "fact": "Par endroits, sa calotte dépasse 3 km d'épaisseur.",
+    "source": "NSIDC"
+  },
+  {
+    "id": "depth-snow-record",
+    "category": "depth",
+    "prompt": "Quelle est la plus grande épaisseur de neige jamais mesurée au sol ?",
+    "answer": 11.82,
+    "unit": "m",
+    "fact": "Le record date de 1927, sur le mont Ibuki au Japon, de quoi engloutir un immeuble de 4 étages.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "depth-mont-saint-michel-tide",
+    "category": "depth",
+    "prompt": "Aux plus grandes marées, de combien la mer monte-t-elle entre marée basse et marée haute au Mont-Saint-Michel ?",
+    "answer": 15,
+    "unit": "m",
+    "fact": "Ce sont parmi les plus fortes marées du monde, avec celles de la baie de Fundy, au Canada.",
+    "source": "DREAL Normandie"
+  },
+  {
+    "id": "depth-scuba-level1",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle profondeur un plongeur débutant (niveau 1) a-t-il le droit de descendre avec un moniteur ?",
+    "answer": 20,
+    "unit": "m",
+    "fact": "Le niveau 3 permet d'aller trois fois plus bas, à l'air, sans moniteur.",
+    "source": "FFESSM / Code du sport"
+  },
+  {
+    "id": "depth-abbesses",
+    "category": "depth",
+    "prompt": "À quelle profondeur se trouve Abbesses, la station la plus profonde du métro parisien ?",
+    "answer": 36,
+    "unit": "m",
+    "fact": "Son entrée Art nouveau, signée Guimard, est l'une des deux dernières à avoir gardé sa verrière.",
+    "source": "RATP"
+  },
+  {
+    "id": "depth-deep-dive-dubai",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur de Deep Dive Dubai, inaugurée en 2021 comme la piscine la plus profonde du monde ?",
+    "answer": 60,
+    "unit": "m",
+    "fact": "Au fond, on a reconstitué une ville engloutie avec une salle d'arcade et un garage.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "depth-channel-tunnel",
+    "category": "depth",
+    "prompt": "À quelle profondeur sous le niveau de la mer descend le tunnel sous la Manche ?",
+    "answer": 75,
+    "unit": "m",
+    "fact": "Les tunneliers anglais et français se sont rejoints en 1990 avec seulement 36 cm d'écart.",
+    "source": "Getlink / Eurotunnel"
+  },
+  {
+    "id": "depth-mayol",
+    "category": "depth",
+    "prompt": "À quelle profondeur Jacques Mayol est-il descendu en retenant son souffle, lors de son record de 1976 ?",
+    "answer": 100,
+    "unit": "m",
+    "fact": "Les médecins de l'époque pensaient que ses poumons seraient écrasés bien avant d'y arriver.",
+    "source": "Ina"
+  },
+  {
+    "id": "depth-bourget",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur maximale du lac du Bourget, le plus grand lac naturel de France ?",
+    "answer": 145,
+    "unit": "m",
+    "fact": "Lamartine y a écrit « Le Lac », l'un des poèmes les plus célèbres de la langue française.",
+    "source": "CISALB"
+  },
+  {
+    "id": "depth-nitsch",
+    "category": "depth",
+    "prompt": "Quel est le record de profondeur en apnée, en retenant son souffle, toutes techniques confondues ?",
+    "answer": 214,
+    "unit": "m",
+    "fact": "En 2012, l'Autrichien Herbert Nitsch a voulu aller encore plus bas : il en est ressorti avec de graves blessures au cerveau.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "depth-scuba-record",
+    "category": "depth",
+    "prompt": "Quel est le record de profondeur en plongée sous-marine avec bouteilles ?",
+    "answer": 332,
+    "unit": "m",
+    "fact": "Ahmed Gabr a mis 12 minutes à descendre en mer Rouge, et près de 14 heures à remonter.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "depth-cigeo",
+    "category": "depth",
+    "prompt": "À quelle profondeur la France prévoit-elle d'enfouir ses déchets nucléaires les plus radioactifs, à Bure ?",
+    "answer": 500,
+    "unit": "m",
+    "fact": "La couche d'argile choisie n'a quasiment pas bougé depuis 160 millions d'années.",
+    "source": "Andra"
+  },
+  {
+    "id": "depth-malawi",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur maximale du lac Malawi ?",
+    "answer": 706,
+    "unit": "m",
+    "fact": "Il abrite plus d'espèces de poissons que n'importe quel autre lac au monde.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "depth-dark-ocean",
+    "category": "depth",
+    "prompt": "À partir de quelle profondeur l'océan est-il plongé dans le noir absolu ?",
+    "answer": 1000,
+    "unit": "m",
+    "fact": "Dans ces ténèbres, la seule lumière vient des animaux eux-mêmes, par bioluminescence.",
+    "source": "NOAA"
+  },
+  {
+    "id": "depth-leatherback",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle profondeur peut plonger une tortue luth ?",
+    "answer": 1280,
+    "unit": "m",
+    "fact": "C'est la plus grande tortue du monde : elle peut dépasser 600 kg.",
+    "source": "NOAA Fisheries"
+  },
+  {
+    "id": "depth-baikal",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur maximale du lac Baïkal, le plus profond du monde ?",
+    "answer": 1642,
+    "unit": "m",
+    "fact": "Il contient à lui seul environ un cinquième de l'eau douce de surface de la planète.",
+    "source": "UNESCO"
+  },
+  {
+    "id": "depth-black-sea",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur maximale de la mer Noire ?",
+    "answer": 2212,
+    "unit": "m",
+    "fact": "Sous 150 m environ, l'eau n'a plus d'oxygène : des épaves antiques y sont restées presque intactes.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "depth-beaked-whale",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle profondeur a-t-on vu plonger la baleine à bec de Cuvier, championne des mammifères ?",
+    "answer": 2992,
+    "unit": "m",
+    "fact": "Elle détient aussi le record d'apnée des mammifères : près de 4 heures sans respirer.",
+    "source": "PLOS ONE (Schorr et al., 2014)"
+  },
+  {
+    "id": "depth-titanic",
+    "category": "depth",
+    "prompt": "À quelle profondeur repose l'épave du Titanic ?",
+    "answer": 3800,
+    "unit": "m",
+    "fact": "Il a fallu 73 ans pour la retrouver, et des bactéries sont en train de la dévorer.",
+    "source": "NOAA"
+  },
+  {
+    "id": "depth-bismarck",
+    "category": "depth",
+    "prompt": "À quelle profondeur repose l'épave du Bismarck, le grand navire de guerre allemand ?",
+    "answer": 4791,
+    "unit": "m",
+    "fact": "C'est Robert Ballard, celui qui avait trouvé le Titanic, qui l'a localisée en 1989.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "depth-nautile",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle profondeur peut descendre le sous-marin habité français Nautile ?",
+    "answer": 6000,
+    "unit": "m",
+    "fact": "Dès 1987, il a remonté des centaines d'objets de l'épave du Titanic.",
+    "source": "Ifremer"
+  },
+  {
+    "id": "depth-snailfish",
+    "category": "depth",
+    "prompt": "À quelle profondeur a-t-on filmé le poisson vivant le plus profond jamais observé ?",
+    "answer": 8336,
+    "unit": "m",
+    "fact": "C'est un petit poisson-limace translucide, pas un monstre des abysses.",
+    "source": "University of Western Australia"
+  },
+  {
+    "id": "depth-mariana",
+    "category": "depth",
+    "prompt": "Quelle est la profondeur du point le plus profond de l'océan, dans la fosse des Mariannes ?",
+    "answer": 10935,
+    "unit": "m",
+    "fact": "Plus de gens ont marché sur la Lune que de gens n'y sont descendus avant 2019.",
+    "source": "NOAA"
+  },
+  {
+    "id": "depth-kola-goal",
+    "category": "depth",
+    "prompt": "Quelle profondeur visaient au départ les Soviétiques en creusant le puits de Kola, le trou le plus profond du monde ?",
+    "answer": 15000,
+    "unit": "m",
+    "fact": "Il s'est arrêté à 12,3 km : à 180 °C, la roche devenait presque pâteuse pour les outils.",
+    "source": "Encyclopædia Britannica"
+  },
+  {
+    "id": "depth-continental-crust",
+    "category": "depth",
+    "prompt": "Quelle est l'épaisseur moyenne de la croûte terrestre sous les continents ?",
+    "answer": 35000,
+    "unit": "m",
+    "fact": "Elle est environ cinq fois plus épaisse que la croûte sous les océans.",
+    "source": "USGS"
+  },
+  {
+    "id": "depth-himalaya-crust",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle épaisseur la croûte terrestre atteint-elle sous l'Himalaya ?",
+    "answer": 70000,
+    "unit": "m",
+    "fact": "La collision de l'Inde avec l'Asie l'a doublée, comme un tapis qu'on pousse contre un mur.",
+    "source": "USGS"
+  },
+  {
+    "id": "depth-lithosphere",
+    "category": "depth",
+    "prompt": "Quelle est l'épaisseur moyenne des plaques tectoniques ?",
+    "answer": 100000,
+    "unit": "m",
+    "fact": "Elles glissent à peu près à la vitesse à laquelle poussent tes ongles.",
+    "source": "USGS"
+  },
+  {
+    "id": "depth-diamonds",
+    "category": "depth",
+    "prompt": "À quelle profondeur se forment la plupart des diamants ?",
+    "answer": 150000,
+    "unit": "m",
+    "fact": "Ils remontent lors d'éruptions éclair : une ascension lente les aurait changés en graphite.",
+    "source": "Gemological Institute of America"
+  },
+  {
+    "id": "depth-enceladus",
+    "category": "depth",
+    "prompt": "Quelle profondeur faudrait-il creuser pour atteindre le centre d'Encelade, une lune de Saturne ?",
+    "answer": 252000,
+    "unit": "m",
+    "fact": "Des geysers d'eau jaillissent de son pôle sud, signe d'un océan caché sous la glace.",
+    "source": "NASA"
+  },
+  {
+    "id": "depth-deep-earthquakes",
+    "category": "depth",
+    "prompt": "Jusqu'à quelle profondeur sous terre peuvent naître les tremblements de terre les plus profonds ?",
+    "answer": 700000,
+    "unit": "m",
+    "fact": "Si profonds, ils secouent toute la planète mais ne font presque aucun dégât en surface.",
+    "source": "USGS"
+  },
+  {
+    "id": "depth-pluto-center",
+    "category": "depth",
+    "prompt": "Quelle profondeur faudrait-il creuser pour atteindre le centre de Pluton ?",
+    "answer": 1188000,
+    "unit": "m",
+    "fact": "Plus petite que la Lune, elle a été déclassée en planète naine en 2006.",
+    "source": "NASA"
+  },
+  {
+    "id": "depth-moon-center",
+    "category": "depth",
+    "prompt": "Quelle profondeur faudrait-il creuser pour atteindre le centre de la Lune ?",
+    "answer": 1737000,
+    "unit": "m",
+    "fact": "La Lune s'éloigne de la Terre d'environ 3,8 cm par an.",
+    "source": "NASA"
+  },
+  {
+    "id": "depth-outer-core-thickness",
+    "category": "depth",
+    "prompt": "Quelle est l'épaisseur du noyau externe de la Terre, la couche de fer liquide ?",
+    "answer": 2260000,
+    "unit": "m",
+    "fact": "C'est le brassage de ce fer liquide qui crée le champ magnétique qui guide ta boussole.",
+    "source": "Institut de physique du globe de Paris"
+  },
+  {
+    "id": "depth-outer-core",
+    "category": "depth",
+    "prompt": "À quelle profondeur commence le noyau terrestre ?",
+    "answer": 2900000,
+    "unit": "m",
+    "fact": "Certaines ondes sismiques s'y arrêtent net : c'est comme ça qu'on a compris qu'il était liquide.",
+    "source": "Institut de physique du globe de Paris"
+  },
+  {
+    "id": "depth-earth-center",
+    "category": "depth",
+    "prompt": "À quelle profondeur se trouve le centre de la Terre ?",
+    "answer": 6371000,
+    "unit": "m",
+    "fact": "En tombant dans un tunnel qui la traverserait, tu ressortirais de l'autre côté en 42 minutes.",
+    "source": "IERS"
+  }
+]

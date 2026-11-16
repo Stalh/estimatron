@@ -1,0 +1,452 @@
+[
+  {
+    "id": "speed-seahorse",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de pointe de l'hippocampe nain, le poisson le plus lent du monde ?",
+    "answer": 0.0015,
+    "unit": "km/h",
+    "fact": "Son corps rigide ne laisse bouger que sa minuscule nageoire dorsale : il vit accroché aux herbiers.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-glacier",
+    "category": "speed",
+    "prompt": "À l'été 2012, à quelle vitesse avançait le glacier le plus rapide du monde, au Groenland ?",
+    "answer": 0.0019,
+    "unit": "km/h",
+    "fact": "Plus de 45 m par jour : du jamais-vu pour un glacier, avant qu'il ne ralentisse les années suivantes.",
+    "source": "University of Washington / The Cryosphere"
+  },
+  {
+    "id": "speed-garden-snail",
+    "category": "speed",
+    "prompt": "À quelle vitesse avance un escargot de jardin, en moyenne ?",
+    "answer": 0.0036,
+    "unit": "km/h",
+    "fact": "À ce rythme, il lui faudrait près de 12 jours sans pause pour parcourir un kilomètre.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "speed-snail-record",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de l'escargot le plus rapide jamais chronométré en course ?",
+    "answer": 0.0099,
+    "unit": "km/h",
+    "fact": "Archie a bouclé les 33 cm du championnat du monde en 2 minutes pile, en 1995.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-bigben-minute",
+    "category": "speed",
+    "prompt": "À quelle vitesse se déplace la pointe de l'aiguille des minutes de Big Ben ?",
+    "answer": 0.0264,
+    "unit": "km/h",
+    "fact": "Elle mesure 4,2 m de long et pèse une centaine de kilos.",
+    "source": "UK Parliament"
+  },
+  {
+    "id": "speed-starfish",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de l'étoile de mer la plus rapide, l'étoile soleil du Pacifique ?",
+    "answer": 0.06,
+    "unit": "km/h",
+    "fact": "Elle avance grâce à environ 15 000 minuscules pieds en forme de ventouses.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-sloth",
+    "category": "speed",
+    "prompt": "À quelle vitesse se déplace un paresseux à trois doigts au sol, en moyenne ?",
+    "answer": 0.13,
+    "unit": "km/h",
+    "fact": "Il lui faudrait près de 50 minutes pour boucler un 100 m.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-giant-tortoise",
+    "category": "speed",
+    "prompt": "À quelle vitesse marche une tortue géante des Galápagos ?",
+    "answer": 0.3,
+    "unit": "km/h",
+    "fact": "Lente mais tenace : on en a suivi qui parcouraient 13 km en deux ou trois jours.",
+    "source": "Galápagos Conservancy"
+  },
+  {
+    "id": "speed-tortoise-record",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de la tortue la plus rapide jamais chronométrée ?",
+    "answer": 1.0,
+    "unit": "km/h",
+    "fact": "Bertie, une tortue léopard, a couvert 5,48 m en moins de 20 secondes en 2014.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-escalator",
+    "category": "speed",
+    "prompt": "À quelle vitesse avance un escalator de centre commercial ?",
+    "answer": 1.8,
+    "unit": "km/h",
+    "fact": "Plus vite, on trébucherait en montant dessus : la norme européenne fixe un plafond.",
+    "source": "Norme européenne EN 115"
+  },
+  {
+    "id": "speed-silver-ant",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de pointe de la fourmi argentée du Sahara, la fourmi la plus rapide ?",
+    "answer": 3.1,
+    "unit": "km/h",
+    "fact": "108 fois la longueur de son corps par seconde : comme un humain à plus de 600 km/h.",
+    "source": "Journal of Experimental Biology"
+  },
+  {
+    "id": "speed-mont-saint-michel-tide",
+    "category": "speed",
+    "prompt": "À quelle vitesse la marée montante envahit-elle la baie du Mont-Saint-Michel ?",
+    "answer": 6.0,
+    "unit": "km/h",
+    "fact": "« À la vitesse d'un cheval au galop » ? Une légende : un bon marcheur tient presque le rythme.",
+    "source": "Office de tourisme du Mont-Saint-Michel / Le Routard"
+  },
+  {
+    "id": "speed-swim-50m",
+    "category": "speed",
+    "prompt": "Selon World Aquatics, quelle est la vitesse moyenne du record du monde du 50 m nage libre établi en 2026 ?",
+    "answer": 8.62,
+    "unit": "km/h",
+    "fact": "Cameron McEvoy l'a battu en 2026, effaçant un record de 2009 nagé avec une combinaison « miracle », depuis interdite.",
+    "source": "World Aquatics"
+  },
+  {
+    "id": "speed-race-walk",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse moyenne du record du monde masculin du 20 km marche ?",
+    "answer": 15.8,
+    "unit": "km/h",
+    "fact": "Plus vite que bien des joggeurs, sans jamais quitter le sol des deux pieds à la fois.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "speed-marathon",
+    "category": "speed",
+    "prompt": "Selon World Athletics, quelle est la vitesse moyenne du record du monde du marathon établi en 2026 ?",
+    "answer": 21.2,
+    "unit": "km/h",
+    "fact": "Sabastian Sawe l'a établi à Londres en 2026 : le premier marathon officiel couru en moins de 2 heures.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "speed-raindrop",
+    "category": "speed",
+    "prompt": "À quelle vitesse tombe une grosse goutte de pluie ?",
+    "answer": 32.0,
+    "unit": "km/h",
+    "fact": "Sans la résistance de l'air, une goutte tombée d'un nuage arriverait comme une balle.",
+    "source": "USGS"
+  },
+  {
+    "id": "speed-bolt",
+    "category": "speed",
+    "prompt": "Quelle vitesse de pointe Usain Bolt a-t-il atteinte lors de son record du monde du 100 m ?",
+    "answer": 44.7,
+    "unit": "km/h",
+    "fact": "C'était à Berlin en 2009, entre 60 et 80 m de course.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "speed-hour-record",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse moyenne du record de l'heure à vélo (la plus grande distance parcourue en une heure) ?",
+    "answer": 56.8,
+    "unit": "km/h",
+    "fact": "Filippo Ganna l'a établi en 2022 sur la piste de Granges, en Suisse.",
+    "source": "UCI"
+  },
+  {
+    "id": "speed-elevator",
+    "category": "speed",
+    "prompt": "En 2025, quelle était la vitesse de l'ascenseur le plus rapide du monde ?",
+    "answer": 75.6,
+    "unit": "km/h",
+    "fact": "Celui de la CTF Finance Centre, à Canton : plus vite qu'une voiture en ville, à la verticale.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-cheetah",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse de pointe d'un guépard ?",
+    "answer": 104,
+    "unit": "km/h",
+    "fact": "Il ne tient ce rythme qu'environ 20 secondes avant de surchauffer.",
+    "source": "Journal of Zoology"
+  },
+  {
+    "id": "speed-skydiver",
+    "category": "speed",
+    "prompt": "À quelle vitesse tombe un parachutiste en chute libre, à plat ventre ?",
+    "answer": 200,
+    "unit": "km/h",
+    "fact": "Tête la première, les plus audacieux dépassent les 300 km/h.",
+    "source": "Fédération française de parachutisme"
+  },
+  {
+    "id": "speed-golf",
+    "category": "speed",
+    "prompt": "Quand un golfeur pro tape son coup le plus long, à quelle vitesse part la balle, en moyenne ?",
+    "answer": 280,
+    "unit": "km/h",
+    "fact": "Les plus gros frappeurs du circuit dépassent les 300 km/h.",
+    "source": "PGA Tour"
+  },
+  {
+    "id": "speed-peregrine",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse en piqué du faucon pèlerin ?",
+    "answer": 389,
+    "unit": "km/h",
+    "fact": "C'est l'animal le plus rapide du monde, toutes catégories confondues.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-tgv",
+    "category": "speed",
+    "prompt": "Quel est le record du monde de vitesse sur rail du TGV ?",
+    "answer": 575,
+    "unit": "km/h",
+    "fact": "Établi en 2007 sur la ligne à grande vitesse Paris-Strasbourg, il tient toujours pour un train sur rails.",
+    "source": "SNCF"
+  },
+  {
+    "id": "speed-tsunami",
+    "category": "speed",
+    "prompt": "À quelle vitesse se déplace un tsunami en plein océan profond ?",
+    "answer": 800,
+    "unit": "km/h",
+    "fact": "Au large, sa vague ne fait parfois que quelques dizaines de centimètres de haut.",
+    "source": "NOAA"
+  },
+  {
+    "id": "speed-sound",
+    "category": "speed",
+    "prompt": "À quelle vitesse se propage le son dans l'air à 20 °C ?",
+    "answer": 1235,
+    "unit": "km/h",
+    "fact": "Compte les secondes entre éclair et tonnerre, divise par 3 : tu as la distance en km.",
+    "source": "Britannica"
+  },
+  {
+    "id": "speed-earth-rotation",
+    "category": "speed",
+    "prompt": "À quelle vitesse tourne la surface de la Terre à l'équateur ?",
+    "answer": 1670,
+    "unit": "km/h",
+    "fact": "C'est pour en profiter que les fusées décollent de Kourou, tout près de l'équateur.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-concorde",
+    "category": "speed",
+    "prompt": "À quelle vitesse volait le Concorde en croisière ?",
+    "answer": 2180,
+    "unit": "km/h",
+    "fact": "Avec le décalage horaire, il arrivait à New York avant l'heure de son départ de Paris.",
+    "source": "Air France"
+  },
+  {
+    "id": "speed-moon",
+    "category": "speed",
+    "prompt": "À quelle vitesse la Lune tourne-t-elle autour de la Terre ?",
+    "answer": 3680,
+    "unit": "km/h",
+    "fact": "Elle s'éloigne pourtant de nous d'environ 3,8 cm par an.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-sound-water",
+    "category": "speed",
+    "prompt": "À quelle vitesse se propage le son dans l'eau ?",
+    "answer": 5330,
+    "unit": "km/h",
+    "fact": "C'est ce qui permet aux baleines de communiquer à des centaines de km.",
+    "source": "NOAA"
+  },
+  {
+    "id": "speed-x15",
+    "category": "speed",
+    "prompt": "Quel est le record de vitesse d'un avion avec un pilote à bord, détenu par l'avion-fusée X-15 ?",
+    "answer": 7274,
+    "unit": "km/h",
+    "fact": "Un record de 1967 que personne n'a battu depuis avec un avion.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-gps",
+    "category": "speed",
+    "prompt": "À quelle vitesse un satellite GPS tourne-t-il autour de la Terre ?",
+    "answer": 13900,
+    "unit": "km/h",
+    "fact": "Ils font deux tours de Terre par jour, à 20 200 km d'altitude.",
+    "source": "GPS.gov"
+  },
+  {
+    "id": "speed-sound-steel",
+    "category": "speed",
+    "prompt": "À quelle vitesse se propage le son dans l'acier ?",
+    "answer": 21500,
+    "unit": "km/h",
+    "fact": "L'oreille collée au rail, on entend le train arriver bien avant qu'il ne siffle.",
+    "source": "Britannica"
+  },
+  {
+    "id": "speed-iss",
+    "category": "speed",
+    "prompt": "À quelle vitesse la Station spatiale internationale tourne-t-elle autour de la Terre ?",
+    "answer": 28000,
+    "unit": "km/h",
+    "fact": "Les astronautes voient 16 levers de soleil par jour.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-apollo10",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse la plus élevée jamais atteinte par des humains ?",
+    "answer": 39900,
+    "unit": "km/h",
+    "fact": "Record tenu depuis 1969 par l'équipage d'Apollo 10, au retour de la Lune.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "speed-voyager1",
+    "category": "speed",
+    "prompt": "À quelle vitesse la sonde Voyager 1 s'éloigne-t-elle du Soleil ?",
+    "answer": 61000,
+    "unit": "km/h",
+    "fact": "Lancée en 1977, elle sera fin 2026 si loin que son signal mettra 24 h à nous arriver.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-earth-orbit",
+    "category": "speed",
+    "prompt": "À quelle vitesse la Terre tourne-t-elle autour du Soleil ?",
+    "answer": 107000,
+    "unit": "km/h",
+    "fact": "Pendant que tu lis cette phrase, tu as parcouru une centaine de kilomètres.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-mercury",
+    "category": "speed",
+    "prompt": "À quelle vitesse Mercure tourne-t-elle autour du Soleil ?",
+    "answer": 170000,
+    "unit": "km/h",
+    "fact": "Son année ne dure que 88 jours terrestres.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-leonids",
+    "category": "speed",
+    "prompt": "À quelle vitesse les étoiles filantes de novembre, les Léonides, entrent-elles dans l'atmosphère ?",
+    "answer": 256000,
+    "unit": "km/h",
+    "fact": "Elles foncent vers nous de face, d'où leurs traînées si vives.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-andromeda",
+    "category": "speed",
+    "prompt": "À quelle vitesse la galaxie voisine d'Andromède fonce-t-elle vers la nôtre, la Voie lactée ?",
+    "answer": 402000,
+    "unit": "km/h",
+    "fact": "La collision est prévue dans environ 4 à 5 milliards d'années.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-parker",
+    "category": "speed",
+    "prompt": "Quelle est la vitesse record de la sonde Parker, qui frôle le Soleil ? C'est l'objet le plus rapide jamais fabriqué.",
+    "answer": 692000,
+    "unit": "km/h",
+    "fact": "À cette allure, Paris-New York prendrait une trentaine de secondes.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-solar-wind",
+    "category": "speed",
+    "prompt": "À quelle vitesse souffle le vent solaire, ce flot de particules craché par le Soleil, en moyenne ?",
+    "answer": 1450000,
+    "unit": "km/h",
+    "fact": "C'est lui qui, en heurtant notre atmosphère, allume les aurores boréales.",
+    "source": "ESA"
+  },
+  {
+    "id": "speed-milky-way",
+    "category": "speed",
+    "prompt": "À quelle vitesse notre galaxie, la Voie lactée, file-t-elle à travers l'Univers ?",
+    "answer": 2200000,
+    "unit": "km/h",
+    "fact": "On ne sent rien, et personne ne sait encore vraiment ce qui nous entraîne aussi vite.",
+    "source": "NASA (COBE)"
+  },
+  {
+    "id": "speed-cme",
+    "category": "speed",
+    "prompt": "Le Soleil crache parfois un énorme nuage de matière. Quelle est la vitesse la plus rapide jamais mesurée pour un tel nuage ?",
+    "answer": 12200000,
+    "unit": "km/h",
+    "fact": "Un nuage de milliards de tonnes de gaz brûlant, projeté dans l'espace.",
+    "source": "NASA / SOHO"
+  },
+  {
+    "id": "speed-s2-star",
+    "category": "speed",
+    "prompt": "À quelle vitesse file l'étoile S2 quand elle frôle le trou noir géant au centre de notre galaxie ?",
+    "answer": 27500000,
+    "unit": "km/h",
+    "fact": "Près de 3 % de la vitesse de la lumière, mesurés par un très grand télescope au Chili.",
+    "source": "ESO"
+  },
+  {
+    "id": "speed-supernova",
+    "category": "speed",
+    "prompt": "À quelle vitesse sont projetés les débris d'une étoile qui explose en supernova ?",
+    "answer": 36000000,
+    "unit": "km/h",
+    "fact": "À cette allure, on ferait le tour de la Terre en à peine quatre secondes.",
+    "source": "NASA"
+  },
+  {
+    "id": "speed-starshot",
+    "category": "speed",
+    "prompt": "Un projet veut envoyer de minuscules voiles, poussées par des lasers, vers l'étoile la plus proche. Quelle vitesse vise-t-il ?",
+    "answer": 216000000,
+    "unit": "km/h",
+    "fact": "Des voiles de quelques grammes, poussées par des lasers depuis la Terre.",
+    "source": "Breakthrough Initiatives"
+  },
+  {
+    "id": "speed-lightning",
+    "category": "speed",
+    "prompt": "Quand un éclair touche le sol, un flash très lumineux remonte vers le nuage. À quelle vitesse ?",
+    "answer": 360000000,
+    "unit": "km/h",
+    "fact": "Un éclair est en fait souvent fait de plusieurs décharges successives.",
+    "source": "Britannica"
+  },
+  {
+    "id": "speed-light-water",
+    "category": "speed",
+    "prompt": "À quelle vitesse se propage la lumière dans l'eau ?",
+    "answer": 810000000,
+    "unit": "km/h",
+    "fact": "Ralentie d'un quart, elle se plie en entrant : d'où la paille qui semble cassée.",
+    "source": "Britannica"
+  },
+  {
+    "id": "speed-light",
+    "category": "speed",
+    "prompt": "À quelle vitesse se propage la lumière dans le vide ?",
+    "answer": 1080000000,
+    "unit": "km/h",
+    "fact": "Elle met environ 8 minutes à nous parvenir du Soleil.",
+    "source": "Bureau international des poids et mesures"
+  }
+]

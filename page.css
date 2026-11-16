@@ -1,0 +1,19 @@
+:root { color-scheme: dark; --bg: #0b0414; --panel: #160a26; --text: #f3ecff; --muted: #b9a8d6; --neon: #ff3fa4; --cyan: #3fe0ff; }
+* { box-sizing: border-box; }
+body { margin: 0; background: radial-gradient(ellipse at top, #2a0d45 0%, var(--bg) 60%); color: var(--text);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; min-height: 100vh; }
+main { max-width: 760px; margin: 0 auto; padding: 48px 16px 80px; }
+h1 { font-family: "Monoton", sans-serif; font-weight: 400; font-size: clamp(36px, 8vw, 64px); margin: 0 0 8px;
+  color: #fff; text-shadow: 0 0 6px var(--neon), 0 0 24px var(--neon); letter-spacing: 2px; }
+h2 { color: var(--cyan); font-size: 22px; margin: 36px 0 8px; }
+h3 { font-size: 18px; margin: 24px 0 4px; }
+p, li { color: var(--muted); }
+a { color: var(--cyan); }
+nav.lang { display: flex; gap: 12px; margin: 8px 0 24px; }
+nav.lang a { text-decoration: none; border: 1px solid #ffffff33; border-radius: 999px; padding: 4px 14px; color: var(--text); }
+nav.lang a.on { border-color: var(--neon); box-shadow: 0 0 10px var(--neon); }
+section[lang] { display: none; }
+section[lang].on { display: block; }
+.card { background: var(--panel); border: 1px solid #ffffff1a; border-radius: 16px; padding: 4px 20px 16px; margin-top: 16px; }
+footer { margin-top: 48px; font-size: 14px; color: #8a7aa6; }
+@font-face { font-family: "Monoton"; src: url("fonts/Monoton-Regular.ttf"); }

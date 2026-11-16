@@ -1,0 +1,452 @@
+[
+  {
+    "id": "energy-rest-minute",
+    "category": "energy",
+    "prompt": "Combien de kilocalories ton corps brûle-t-il en une minute, allongé sans rien faire ?",
+    "answer": 1.1,
+    "unit": "kcal",
+    "fact": "Ton cerveau, ton foie et tes muscles se partagent l'essentiel de cette dépense, même quand tu dors.",
+    "source": "FAO/OMS"
+  },
+  {
+    "id": "energy-lettuce-leaf",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une feuille de laitue ?",
+    "answer": 1.4,
+    "unit": "kcal",
+    "fact": "La laitue est composée à environ 95 % d'eau, plus qu'une pastèque.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-tic-tac",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une seule pastille Tic Tac ?",
+    "answer": 1.9,
+    "unit": "kcal",
+    "fact": "Aux États-Unis, la boîte affiche pourtant « 0 calorie », grâce à une portion d'une seule pastille.",
+    "source": "Ferrero"
+  },
+  {
+    "id": "energy-aa-battery",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie contient une pile AA neuve ?",
+    "answer": 2.4,
+    "unit": "kcal",
+    "fact": "Une seule cacahuète contient plus d'énergie qu'une pile neuve.",
+    "source": "Energizer"
+  },
+  {
+    "id": "energy-grape",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un grain de raisin ?",
+    "answer": 3.1,
+    "unit": "kcal",
+    "fact": "Le raisin est l'un des fruits les plus sucrés, avec environ 16 g de sucre pour 100 g.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-strawberry",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une fraise moyenne ?",
+    "answer": 4,
+    "unit": "kcal",
+    "fact": "À poids égal, la fraise contient plus de vitamine C que l'orange.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-green-olive",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une olive verte de l'apéro ?",
+    "answer": 5.2,
+    "unit": "kcal",
+    "fact": "Olives vertes et noires viennent du même arbre : les noires sont simplement cueillies plus mûres.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-almond",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une seule amande ?",
+    "answer": 7,
+    "unit": "kcal",
+    "fact": "En réalité, l'amande n'est pas une noix mais le noyau d'un fruit cousin de la pêche.",
+    "source": "USDA"
+  },
+  {
+    "id": "energy-fat-gram",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un seul gramme de matière grasse ?",
+    "answer": 9,
+    "unit": "kcal",
+    "fact": "C'est plus du double d'un gramme de sucre ou de protéines, d'où l'huile si calorique.",
+    "source": "ANSES"
+  },
+  {
+    "id": "energy-smartphone",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie contient une batterie de smartphone pleine ?",
+    "answer": 11.5,
+    "unit": "kcal",
+    "fact": "Après environ 500 recharges complètes, une batterie a souvent perdu un cinquième de sa capacité.",
+    "source": "Apple"
+  },
+  {
+    "id": "energy-quail-egg",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un œuf de caille ?",
+    "answer": 15,
+    "unit": "kcal",
+    "fact": "Il faut environ cinq œufs de caille pour égaler le poids d'un œuf de poule.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-sugar-cube",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un morceau de sucre ?",
+    "answer": 20,
+    "unit": "kcal",
+    "fact": "Le sucre en morceaux a été inventé en 1843 en Bohême, après que la femme d'un directeur de sucrerie s'est coupée en cassant un pain de sucre.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-chocolate-square",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un carré de chocolat noir de 5 g ?",
+    "answer": 27,
+    "unit": "kcal",
+    "fact": "Le chocolat fond vers 34 °C, juste en dessous de la température de ta bouche.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-clementine",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une clémentine ?",
+    "answer": 35,
+    "unit": "kcal",
+    "fact": "La clémentine doit son nom au frère Clément, qui l'a obtenue en Algérie vers 1900.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-oreo",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un seul biscuit Oreo ?",
+    "answer": 53,
+    "unit": "kcal",
+    "fact": "Il s'en vend plus de 40 milliards par an dans le monde.",
+    "source": "Mondelez"
+  },
+  {
+    "id": "energy-egg",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un gros œuf de poule ?",
+    "answer": 72,
+    "unit": "kcal",
+    "fact": "La couleur de la coquille dépend uniquement de la race de la poule, pas de la qualité de l'œuf.",
+    "source": "USDA"
+  },
+  {
+    "id": "energy-banana",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une banane moyenne ?",
+    "answer": 105,
+    "unit": "kcal",
+    "fact": "La banane est légèrement radioactive à cause de son potassium.",
+    "source": "USDA"
+  },
+  {
+    "id": "energy-coke-can",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une canette de Coca-Cola de 33 cl ?",
+    "answer": 139,
+    "unit": "kcal",
+    "fact": "Elle contient l'équivalent d'environ sept morceaux de sucre.",
+    "source": "Coca-Cola France"
+  },
+  {
+    "id": "energy-croissant",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un croissant au beurre de boulangerie (environ 45 g) ?",
+    "answer": 180,
+    "unit": "kcal",
+    "fact": "Malgré son image très française, le croissant descend du kipferl viennois.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-beer-pint",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une pinte de 50 cl de bière blonde ?",
+    "answer": 230,
+    "unit": "kcal",
+    "fact": "L'essentiel de ces calories vient de l'alcool, pas des céréales.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-walk-hour",
+    "category": "energy",
+    "prompt": "Combien de kilocalories brûle un adulte de 70 kg en une heure de marche d'un bon pas ?",
+    "answer": 300,
+    "unit": "kcal",
+    "fact": "Monter les escaliers brûle environ deux fois plus d'énergie que marcher sur le plat.",
+    "source": "Compendium of Physical Activities"
+  },
+  {
+    "id": "energy-galette-slice",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une part de galette des rois à la frangipane (1/8 de galette) ?",
+    "answer": 380,
+    "unit": "kcal",
+    "fact": "La galette servie à l'Élysée n'a pas de fève : le président ne peut pas être couronné roi.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-big-mac",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un Big Mac ?",
+    "answer": 503,
+    "unit": "kcal",
+    "fact": "Son prix sert à comparer le pouvoir d'achat des pays dans l'indice Big Mac de The Economist.",
+    "source": "McDonald's France"
+  },
+  {
+    "id": "energy-baguette",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une baguette entière de 250 g ?",
+    "answer": 670,
+    "unit": "kcal",
+    "fact": "Le savoir-faire de la baguette est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2022.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-kwh",
+    "category": "energy",
+    "prompt": "À combien de kilocalories correspond un kilowattheure (kWh), l'unité de ta facture d'électricité ?",
+    "answer": 860,
+    "unit": "kcal",
+    "fact": "Un cycliste amateur qui pédale une heure produit à peine un dixième de cette énergie.",
+    "source": "BIPM"
+  },
+  {
+    "id": "energy-ferrero-box",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une boîte de 16 Ferrero Rocher ?",
+    "answer": 1200,
+    "unit": "kcal",
+    "fact": "Chaque bouchée cache une noisette entière au cœur d'une gaufrette.",
+    "source": "Ferrero"
+  },
+  {
+    "id": "energy-chips-bag",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un grand sachet de chips de 300 g ?",
+    "answer": 1590,
+    "unit": "kcal",
+    "fact": "Les chips seraient nées en 1853 d'un cuisinier agacé par un client qui trouvait ses frites trop épaisses.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-daily-woman",
+    "category": "energy",
+    "prompt": "Combien de kilocalories une femme adulte moyennement active dépense-t-elle par jour ?",
+    "answer": 2000,
+    "unit": "kcal",
+    "fact": "C'est la valeur de référence utilisée sur les étiquettes nutritionnelles européennes.",
+    "source": "ANSES"
+  },
+  {
+    "id": "energy-marathon",
+    "category": "energy",
+    "prompt": "Combien de kilocalories brûle un coureur de 65 kg sur un marathon ?",
+    "answer": 2750,
+    "unit": "kcal",
+    "fact": "Le corps n'a de sucre en réserve que pour une trentaine de kilomètres, d'où le fameux « mur ».",
+    "source": "American College of Sports Medicine"
+  },
+  {
+    "id": "energy-pasta-kilo",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un paquet d'un kilo de pâtes sèches ?",
+    "answer": 3550,
+    "unit": "kcal",
+    "fact": "Un Italien mange en moyenne plus de 20 kg de pâtes par an.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-bath",
+    "category": "energy",
+    "prompt": "Combien de kilocalories faut-il pour chauffer un bain de 150 litres de 10 °C à 40 °C ?",
+    "answer": 4500,
+    "unit": "kcal",
+    "fact": "La kilocalorie est justement définie comme l'énergie qui réchauffe un litre d'eau d'un degré.",
+    "source": "BIPM"
+  },
+  {
+    "id": "energy-peanuts-kilo",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un kilo de cacahuètes grillées ?",
+    "answer": 6100,
+    "unit": "kcal",
+    "fact": "La cacahuète n'est pas une noix : elle pousse sous terre et c'est une cousine du petit pois.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-petrol-liter",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un litre d'essence ?",
+    "answer": 7650,
+    "unit": "kcal",
+    "fact": "Un moteur thermique n'en transforme qu'environ un tiers en mouvement, le reste part en chaleur.",
+    "source": "ADEME"
+  },
+  {
+    "id": "energy-powerwall",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie stocke une Tesla Powerwall pleine, la grosse batterie qu'on installe chez soi ?",
+    "answer": 11600,
+    "unit": "kcal",
+    "fact": "De quoi faire tourner un frigo pendant environ un mois.",
+    "source": "Tesla"
+  },
+  {
+    "id": "energy-grizzly",
+    "category": "energy",
+    "prompt": "Combien de kilocalories un grizzly peut-il avaler par jour juste avant d'hiberner ?",
+    "answer": 20000,
+    "unit": "kcal",
+    "fact": "Pendant l'hibernation, il peut passer plus de cinq mois sans manger, boire ni uriner.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "energy-hydrogen-kilo",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie contient un kilo d'hydrogène ?",
+    "answer": 28600,
+    "unit": "kcal",
+    "fact": "Une voiture à hydrogène parcourt environ 100 km avec ce seul kilo.",
+    "source": "ADEME"
+  },
+  {
+    "id": "energy-oil-can",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un bidon de 5 litres d'huile de tournesol ?",
+    "answer": 41000,
+    "unit": "kcal",
+    "fact": "L'huile est l'aliment le plus calorique qui existe : c'est quasiment de la graisse pure.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-tesla-battery",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie stocke la batterie pleine d'une Tesla Model 3 (version Grande Autonomie) ?",
+    "answer": 64500,
+    "unit": "kcal",
+    "fact": "La batterie pèse à elle seule près de 500 kg, environ le quart de la voiture.",
+    "source": "Tesla"
+  },
+  {
+    "id": "energy-flour-sack",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un sac de farine de boulanger de 25 kg ?",
+    "answer": 86000,
+    "unit": "kcal",
+    "fact": "Un tel sac permet de faire environ 160 baguettes.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-tour-de-france",
+    "category": "energy",
+    "prompt": "Combien de kilocalories un coureur brûle-t-il au total sur les trois semaines du Tour de France ?",
+    "answer": 120000,
+    "unit": "kcal",
+    "fact": "Malgré des repas gargantuesques, beaucoup de coureurs perdent du poids pendant l'épreuve.",
+    "source": "Journal of Applied Physiology"
+  },
+  {
+    "id": "energy-comte-wheel",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une meule entière de comté d'environ 40 kg ?",
+    "answer": 165000,
+    "unit": "kcal",
+    "fact": "Il faut environ 400 litres de lait pour fabriquer une seule meule.",
+    "source": "Ciqual (ANSES)"
+  },
+  {
+    "id": "energy-lightning",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie libère un éclair d'orage ordinaire ?",
+    "answer": 240000,
+    "unit": "kcal",
+    "fact": "L'air traversé par l'éclair atteint environ 30 000 °C, cinq fois la surface du Soleil.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "energy-reactor-second",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'électricité un gros réacteur nucléaire (1 300 MW) produit-il en une seule seconde ?",
+    "answer": 310000,
+    "unit": "kcal",
+    "fact": "La France compte 57 réacteurs, qui fournissent environ deux tiers de son électricité.",
+    "source": "EDF"
+  },
+  {
+    "id": "energy-fuel-tank",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans le plein d'essence d'une voiture familiale (60 litres) ?",
+    "answer": 460000,
+    "unit": "kcal",
+    "fact": "Une voiture électrique parcourt la même distance avec environ trois fois moins d'énergie.",
+    "source": "ADEME"
+  },
+  {
+    "id": "energy-year-of-food",
+    "category": "energy",
+    "prompt": "Combien de kilocalories un adulte mange-t-il en une année entière ?",
+    "answer": 730000,
+    "unit": "kcal",
+    "fact": "De quoi avaler près de 1 500 Big Mac, si l'on ne mangeait que ça.",
+    "source": "ANSES"
+  },
+  {
+    "id": "energy-tnt-ton",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'énergie libère l'explosion d'une tonne de TNT ?",
+    "answer": 1000000,
+    "unit": "kcal",
+    "fact": "Le TNT contient en réalité moins d'énergie par kilo que le beurre : il la libère juste beaucoup plus vite.",
+    "source": "NIST"
+  },
+  {
+    "id": "energy-oil-barrel",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans un baril de pétrole brut ?",
+    "answer": 1460000,
+    "unit": "kcal",
+    "fact": "Un baril ne fait que 159 litres : à peine de quoi faire trois pleins de citadine.",
+    "source": "U.S. Energy Information Administration"
+  },
+  {
+    "id": "energy-olympic-pool",
+    "category": "energy",
+    "prompt": "Combien de kilocalories faut-il pour réchauffer d'un seul degré l'eau d'une piscine olympique de 2 m de fond ?",
+    "answer": 2500000,
+    "unit": "kcal",
+    "fact": "Pour les compétitions, le règlement impose une eau entre 25 et 28 °C.",
+    "source": "World Aquatics"
+  },
+  {
+    "id": "energy-household-year",
+    "category": "energy",
+    "prompt": "Combien de kilocalories d'électricité un foyer français consomme-t-il en un an ?",
+    "answer": 3900000,
+    "unit": "kcal",
+    "fact": "Le pic de consommation électrique en France survient les soirs d'hiver, vers 19 h.",
+    "source": "ADEME"
+  },
+  {
+    "id": "energy-coal-ton",
+    "category": "energy",
+    "prompt": "Combien de kilocalories dans une tonne de charbon ?",
+    "answer": 7000000,
+    "unit": "kcal",
+    "fact": "La dernière mine de charbon française, en Moselle, a fermé en 2004.",
+    "source": "Insee"
+  }
+]

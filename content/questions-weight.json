@@ -1,0 +1,452 @@
+[
+  {
+    "id": "weight-mosquito",
+    "category": "weight",
+    "prompt": "Combien pèse un moustique ?",
+    "answer": 2.5e-06,
+    "unit": "kg",
+    "fact": "Une femelle peut avaler jusqu'à trois fois son poids en sang en un seul repas.",
+    "source": "Institut Pasteur"
+  },
+  {
+    "id": "weight-rice-grain",
+    "category": "weight",
+    "prompt": "Combien pèse un grain de riz ?",
+    "answer": 2.5e-05,
+    "unit": "kg",
+    "fact": "C'est la céréale qui nourrit plus de la moitié de l'humanité.",
+    "source": "FAO"
+  },
+  {
+    "id": "weight-honeybee",
+    "category": "weight",
+    "prompt": "Combien pèse une abeille ouvrière ?",
+    "answer": 0.0001,
+    "unit": "kg",
+    "fact": "Dans toute sa vie, une ouvrière ne produit qu'un douzième de cuillère à café de miel.",
+    "source": "INRAE"
+  },
+  {
+    "id": "weight-tic-tac",
+    "category": "weight",
+    "prompt": "Combien pèse une seule pastille Tic Tac ?",
+    "answer": 0.00049,
+    "unit": "kg",
+    "fact": "Moins de 0,5 g : de quoi afficher « 0 calorie » sur la boîte aux États-Unis.",
+    "source": "FDA"
+  },
+  {
+    "id": "weight-air-liter",
+    "category": "weight",
+    "prompt": "Combien pèse un litre d'air ?",
+    "answer": 0.0012,
+    "unit": "kg",
+    "fact": "L'air contenu dans ton salon pèse sans doute plus de 50 kg.",
+    "source": "Météo-France"
+  },
+  {
+    "id": "weight-bee-hummingbird",
+    "category": "weight",
+    "prompt": "Combien pèse le plus petit oiseau du monde, un colibri de Cuba ?",
+    "answer": 0.00195,
+    "unit": "kg",
+    "fact": "Ce minuscule oiseau cubain pèse moins qu'une pièce de 1 centime.",
+    "source": "Britannica"
+  },
+  {
+    "id": "weight-ping-pong",
+    "category": "weight",
+    "prompt": "Combien pèse une balle de ping-pong réglementaire ?",
+    "answer": 0.0027,
+    "unit": "kg",
+    "fact": "Sa masse est fixée au dixième de gramme près par le règlement international.",
+    "source": "ITTF"
+  },
+  {
+    "id": "weight-a4-sheet",
+    "category": "weight",
+    "prompt": "Combien pèse une feuille A4 de papier d'imprimante standard ?",
+    "answer": 0.005,
+    "unit": "kg",
+    "fact": "Le format A4 est conçu pour que sa surface fasse 1/16 de mètre carré.",
+    "source": "ISO 216"
+  },
+  {
+    "id": "weight-euro-coin",
+    "category": "weight",
+    "prompt": "Combien pèse une pièce de 1 euro ?",
+    "answer": 0.0075,
+    "unit": "kg",
+    "fact": "Son cœur et sa couronne sont faits de deux alliages différents.",
+    "source": "Banque centrale européenne"
+  },
+  {
+    "id": "weight-aa-battery",
+    "category": "weight",
+    "prompt": "Combien pèse une pile alcaline AA ?",
+    "answer": 0.023,
+    "unit": "kg",
+    "fact": "Le format AA existe depuis 1907, bien avant la plupart des appareils qui l'utilisent.",
+    "source": "Energizer"
+  },
+  {
+    "id": "weight-golf-ball",
+    "category": "weight",
+    "prompt": "Combien pèse au maximum une balle de golf réglementaire ?",
+    "answer": 0.0459,
+    "unit": "kg",
+    "fact": "Seul le maximum est imposé : rien n'empêche une balle d'être plus légère.",
+    "source": "R&A / USGA"
+  },
+  {
+    "id": "weight-tennis-ball",
+    "category": "weight",
+    "prompt": "Combien pèse une balle de tennis réglementaire ?",
+    "answer": 0.058,
+    "unit": "kg",
+    "fact": "Au haut niveau, les balles sont changées tous les 9 jeux.",
+    "source": "ITF"
+  },
+  {
+    "id": "weight-iphone-15",
+    "category": "weight",
+    "prompt": "Combien pèse un iPhone 15 ?",
+    "answer": 0.171,
+    "unit": "kg",
+    "fact": "Le tout premier iPhone, en 2007, ne pesait que 135 g.",
+    "source": "Apple"
+  },
+  {
+    "id": "weight-human-heart",
+    "category": "weight",
+    "prompt": "Combien pèse le cœur d'un adulte ?",
+    "answer": 0.3,
+    "unit": "kg",
+    "fact": "Il pompe pourtant environ 7 000 litres de sang par jour.",
+    "source": "Fédération française de cardiologie"
+  },
+  {
+    "id": "weight-football",
+    "category": "weight",
+    "prompt": "Combien pèse un ballon de football réglementaire ?",
+    "answer": 0.43,
+    "unit": "kg",
+    "fact": "Le premier ballon en cuir était gonflé avec une vessie de porc.",
+    "source": "IFAB"
+  },
+  {
+    "id": "weight-cullinan",
+    "category": "weight",
+    "prompt": "Combien pesait le Cullinan, le plus gros diamant jamais trouvé, avant d'être taillé ?",
+    "answer": 0.621,
+    "unit": "kg",
+    "fact": "Taillé, il a donné les deux plus gros diamants des joyaux de la Couronne britannique.",
+    "source": "Royal Collection Trust"
+  },
+  {
+    "id": "weight-hailstone",
+    "category": "weight",
+    "prompt": "Combien pesait le plus gros grêlon jamais mesuré aux États-Unis, tombé dans le Dakota du Sud en 2010 ?",
+    "answer": 0.88,
+    "unit": "kg",
+    "fact": "Avec ses 20 cm de diamètre, il avait la taille d'un ballon de volley.",
+    "source": "NOAA"
+  },
+  {
+    "id": "weight-human-brain",
+    "category": "weight",
+    "prompt": "Combien pèse le cerveau d'un adulte ?",
+    "answer": 1.4,
+    "unit": "kg",
+    "fact": "Il ne fait que 2 % de ta masse mais consomme 20 % de ton énergie.",
+    "source": "INSERM"
+  },
+  {
+    "id": "weight-st-edward-crown",
+    "category": "weight",
+    "prompt": "Combien pèse la couronne de Saint-Édouard, utilisée pour couronner les rois anglais ?",
+    "answer": 2.23,
+    "unit": "kg",
+    "fact": "Si lourde que le monarque ne la porte que quelques minutes, le jour du sacre.",
+    "source": "Royal Collection Trust"
+  },
+  {
+    "id": "weight-newborn",
+    "category": "weight",
+    "prompt": "Combien pèse un nouveau-né en France, en moyenne ?",
+    "answer": 3.3,
+    "unit": "kg",
+    "fact": "Il perd souvent un peu de poids les premiers jours, avant de le reprendre.",
+    "source": "INSERM, Enquête nationale périnatale"
+  },
+  {
+    "id": "weight-elephant-brain",
+    "category": "weight",
+    "prompt": "Combien pèse le cerveau d'un éléphant d'Afrique adulte ?",
+    "answer": 5.0,
+    "unit": "kg",
+    "fact": "C'est le plus gros cerveau de tous les animaux terrestres.",
+    "source": "Britannica"
+  },
+  {
+    "id": "weight-shot-put",
+    "category": "weight",
+    "prompt": "Combien pèse la boule lancée par les hommes au lancer du poids ?",
+    "answer": 7.26,
+    "unit": "kg",
+    "fact": "Le record du monde de Ryan Crouser dépasse 23,5 mètres.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "weight-gold-bar",
+    "category": "weight",
+    "prompt": "Combien pèse un lingot d'or standard des banques centrales ?",
+    "answer": 12.4,
+    "unit": "kg",
+    "fact": "Gros comme une brique, il vaut plus d'un million d'euros.",
+    "source": "LBMA"
+  },
+  {
+    "id": "weight-gold-liter",
+    "category": "weight",
+    "prompt": "Combien pèserait une bouteille d'un litre remplie d'or ?",
+    "answer": 19.3,
+    "unit": "kg",
+    "fact": "Avec à peine 30 g d'or, on peut tirer un fil de 80 km de long.",
+    "source": "Britannica"
+  },
+  {
+    "id": "weight-sputnik",
+    "category": "weight",
+    "prompt": "Combien pesait Spoutnik 1, le premier satellite artificiel (1957) ?",
+    "answer": 83.6,
+    "unit": "kg",
+    "fact": "Une sphère de 58 cm qui faisait juste bip-bip : le début de la course à l'espace.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-blue-whale-heart",
+    "category": "weight",
+    "prompt": "Combien pèse le cœur d'une baleine bleue ?",
+    "answer": 180,
+    "unit": "kg",
+    "fact": "En plongée, il ne bat parfois que deux fois par minute.",
+    "source": "Royal Ontario Museum"
+  },
+  {
+    "id": "weight-moon-rocks",
+    "category": "weight",
+    "prompt": "Quelle masse de roches lunaires les six missions Apollo ont-elles rapportée ?",
+    "answer": 382,
+    "unit": "kg",
+    "fact": "Certains échantillons sont restés scellés 50 ans, en attendant de meilleurs instruments.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-grand-piano",
+    "category": "weight",
+    "prompt": "Combien pèse le plus grand piano à queue de Steinway, celui des salles de concert ?",
+    "answer": 480,
+    "unit": "kg",
+    "fact": "Il compte plus de 12 000 pièces, assemblées en près d'un an.",
+    "source": "Steinway & Sons"
+  },
+  {
+    "id": "weight-f1-car",
+    "category": "weight",
+    "prompt": "Quelle était la masse minimale d'une Formule 1 en 2024, pilote compris ?",
+    "answer": 798,
+    "unit": "kg",
+    "fact": "Un pilote peut perdre jusqu'à 3 kg de sueur pendant un Grand Prix.",
+    "source": "FIA"
+  },
+  {
+    "id": "weight-pumpkin",
+    "category": "weight",
+    "prompt": "Selon le Guinness World Records, combien pesait la citrouille record du monde, pesée aux États-Unis en octobre 2026 ?",
+    "answer": 1431.5,
+    "unit": "kg",
+    "fact": "Le record était tombé une semaine plus tôt en Angleterre : il n'aura tenu que sept jours.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "weight-sunfish",
+    "category": "weight",
+    "prompt": "Combien pesait le plus lourd poisson à arêtes jamais trouvé, un poisson-lune ?",
+    "answer": 2744,
+    "unit": "kg",
+    "fact": "Il a été découvert mort au large des Açores en 2021.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "weight-african-elephant",
+    "category": "weight",
+    "prompt": "Combien pèse un éléphant d'Afrique mâle adulte, en moyenne ?",
+    "answer": 6000,
+    "unit": "kg",
+    "fact": "Il avale jusqu'à 150 kg de végétaux par jour.",
+    "source": "WWF"
+  },
+  {
+    "id": "weight-t-rex",
+    "category": "weight",
+    "prompt": "Selon les estimations, combien pesait un Tyrannosaurus rex adulte ?",
+    "answer": 8000,
+    "unit": "kg",
+    "fact": "Ses dents les plus longues, racine comprise, mesuraient 30 cm.",
+    "source": "Muséum national d'histoire naturelle"
+  },
+  {
+    "id": "weight-hubble",
+    "category": "weight",
+    "prompt": "Combien pèse le télescope spatial Hubble ?",
+    "answer": 11100,
+    "unit": "kg",
+    "fact": "Conçu pour être réparé en orbite, il a reçu cinq visites d'astronautes.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-apollo-lm",
+    "category": "weight",
+    "prompt": "Combien pesait le module lunaire d'Apollo 11, plein de carburant ?",
+    "answer": 15100,
+    "unit": "kg",
+    "fact": "Par endroits, sa coque n'était pas plus épaisse que quelques feuilles de papier.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-eniac",
+    "category": "weight",
+    "prompt": "Combien pesait l'ENIAC, l'un des tout premiers ordinateurs (1946) ?",
+    "answer": 27000,
+    "unit": "kg",
+    "fact": "Ton téléphone est des millions de fois plus puissant que lui.",
+    "source": "Britannica"
+  },
+  {
+    "id": "weight-boeing-737",
+    "category": "weight",
+    "prompt": "Combien pèse un Boeing 737-800 à vide ?",
+    "answer": 41400,
+    "unit": "kg",
+    "fact": "Il en décolle un quelque part dans le monde toutes les quelques secondes.",
+    "source": "Boeing"
+  },
+  {
+    "id": "weight-hoba",
+    "category": "weight",
+    "prompt": "Combien pèse Hoba, la plus grosse météorite connue, en Namibie ?",
+    "answer": 60000,
+    "unit": "kg",
+    "fact": "Trop lourde pour être déplacée, elle repose toujours là où elle est tombée.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "weight-blue-whale",
+    "category": "weight",
+    "prompt": "Combien pesait la plus lourde baleine bleue jamais pesée ?",
+    "answer": 190000,
+    "unit": "kg",
+    "fact": "C'est plus lourd que n'importe quel dinosaure connu.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "weight-iss",
+    "category": "weight",
+    "prompt": "Combien pèse la Station spatiale internationale ?",
+    "answer": 420000,
+    "unit": "kg",
+    "fact": "Elle fait le tour de la Terre en 90 minutes environ.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-a380",
+    "category": "weight",
+    "prompt": "Quelle est la masse maximale d'un Airbus A380 au décollage ?",
+    "answer": 575000,
+    "unit": "kg",
+    "fact": "Ses réservoirs contiennent plus de 320 000 litres de kérosène.",
+    "source": "Airbus"
+  },
+  {
+    "id": "weight-saturn-v",
+    "category": "weight",
+    "prompt": "Combien pesait la fusée Saturn V au décollage ?",
+    "answer": 2970000,
+    "unit": "kg",
+    "fact": "Environ 90 % de cette masse était du carburant.",
+    "source": "NASA"
+  },
+  {
+    "id": "weight-eiffel-tower",
+    "category": "weight",
+    "prompt": "Combien pèse la tour Eiffel ?",
+    "answer": 10100000,
+    "unit": "kg",
+    "fact": "Son métal fondu tiendrait dans un cube de 10 m de côté.",
+    "source": "Société d'exploitation de la tour Eiffel"
+  },
+  {
+    "id": "weight-pisa-tower",
+    "category": "weight",
+    "prompt": "Combien pèse la tour de Pise ?",
+    "answer": 14500000,
+    "unit": "kg",
+    "fact": "Elle a commencé à pencher avant même la fin de sa construction, au XIIe siècle.",
+    "source": "Opera della Primaziale Pisana"
+  },
+  {
+    "id": "weight-titanic",
+    "category": "weight",
+    "prompt": "Combien pesait le Titanic ?",
+    "answer": 52300000,
+    "unit": "kg",
+    "fact": "Ses canots ne pouvaient accueillir qu'environ la moitié des passagers.",
+    "source": "Britannica"
+  },
+  {
+    "id": "weight-aircraft-carrier",
+    "category": "weight",
+    "prompt": "Combien pèse le porte-avions américain Gerald R. Ford, à pleine charge ?",
+    "answer": 100000000,
+    "unit": "kg",
+    "fact": "Il embarque plus de 4 500 marins et 75 avions.",
+    "source": "US Navy"
+  },
+  {
+    "id": "weight-all-gold",
+    "category": "weight",
+    "prompt": "Combien pèse tout l'or extrait dans l'histoire de l'humanité (fin 2024) ?",
+    "answer": 216000000,
+    "unit": "kg",
+    "fact": "Il tiendrait dans un cube d'à peine 22 mètres de côté.",
+    "source": "World Gold Council"
+  },
+  {
+    "id": "weight-empire-state",
+    "category": "weight",
+    "prompt": "Combien pèse l'Empire State Building ?",
+    "answer": 331000000,
+    "unit": "kg",
+    "fact": "Il a été construit en seulement 410 jours.",
+    "source": "Empire State Realty Trust"
+  },
+  {
+    "id": "weight-seawise-giant",
+    "category": "weight",
+    "prompt": "Combien pesait à pleine charge le Seawise Giant, plus grand navire jamais construit ?",
+    "answer": 657000000,
+    "unit": "kg",
+    "fact": "Lancé à pleine vitesse, il lui fallait près de 9 km pour s'arrêter.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "weight-great-pyramid",
+    "category": "weight",
+    "prompt": "Combien pèse la Grande Pyramide de Gizeh ?",
+    "answer": 6000000000,
+    "unit": "kg",
+    "fact": "Elle compte environ 2,3 millions de blocs de pierre.",
+    "source": "Britannica"
+  }
+]

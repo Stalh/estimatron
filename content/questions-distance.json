@@ -1,0 +1,452 @@
+[
+  {
+    "id": "distance-paper",
+    "category": "distance",
+    "prompt": "Quelle est l'épaisseur d'une feuille de papier d'imprimante classique ?",
+    "answer": 0.0001,
+    "unit": "m",
+    "fact": "Pliée en deux 42 fois de suite, elle atteindrait la Lune, en théorie.",
+    "source": "AFNOR"
+  },
+  {
+    "id": "distance-bank-card-thick",
+    "category": "distance",
+    "prompt": "Quelle est l'épaisseur d'une carte bancaire ?",
+    "answer": 0.00076,
+    "unit": "m",
+    "fact": "La même norme fixe la taille de ta carte Vitale, ton permis et ta carte d'identité.",
+    "source": "ISO/IEC 7810"
+  },
+  {
+    "id": "distance-bic-ball",
+    "category": "distance",
+    "prompt": "Quel est le diamètre de la bille d'un stylo Bic Cristal pointe moyenne ?",
+    "answer": 0.001,
+    "unit": "m",
+    "fact": "Un seul Bic peut tracer une ligne de plus de 2 km avant d'être à sec.",
+    "source": "Société Bic"
+  },
+  {
+    "id": "distance-euro-thick",
+    "category": "distance",
+    "prompt": "Quelle est l'épaisseur d'une pièce de 1 euro ?",
+    "answer": 0.00233,
+    "unit": "m",
+    "fact": "Elle est faite de deux métaux : un cœur argenté et un anneau doré.",
+    "source": "Banque centrale européenne"
+  },
+  {
+    "id": "distance-lego",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur d'une brique Lego classique, sans les petits plots du dessus ?",
+    "answer": 0.0096,
+    "unit": "m",
+    "fact": "Les briques de 1958 s'emboîtent encore parfaitement avec celles d'aujourd'hui.",
+    "source": "The Lego Group"
+  },
+  {
+    "id": "distance-euro-diam",
+    "category": "distance",
+    "prompt": "Quel est le diamètre d'une pièce de 1 euro ?",
+    "answer": 0.02325,
+    "unit": "m",
+    "fact": "Les aveugles la distinguent de la 2 euros grâce à sa tranche, crantée par segments.",
+    "source": "Banque centrale européenne"
+  },
+  {
+    "id": "distance-pingpong",
+    "category": "distance",
+    "prompt": "Quel est le diamètre d'une balle de ping-pong ?",
+    "answer": 0.04,
+    "unit": "m",
+    "fact": "Elle a grossi en 2000 pour ralentir le jeu et le rendre plus lisible à la télé.",
+    "source": "ITTF"
+  },
+  {
+    "id": "distance-bank-card-len",
+    "category": "distance",
+    "prompt": "Quelle est la longueur d'une carte bancaire ?",
+    "answer": 0.0856,
+    "unit": "m",
+    "fact": "Son format vient des cartes de crédit américaines des années 1950.",
+    "source": "ISO/IEC 7810"
+  },
+  {
+    "id": "distance-cd",
+    "category": "distance",
+    "prompt": "Quel est le diamètre d'un CD ?",
+    "answer": 0.12,
+    "unit": "m",
+    "fact": "Sa durée de 74 min aurait été choisie pour contenir la 9e symphonie de Beethoven.",
+    "source": "Philips / Sony, Red Book"
+  },
+  {
+    "id": "distance-football",
+    "category": "distance",
+    "prompt": "Quel est le diamètre d'un ballon de football officiel ?",
+    "answer": 0.22,
+    "unit": "m",
+    "fact": "Le ballon de la finale du Mondial 1930 changeait à la mi-temps : un par équipe.",
+    "source": "FIFA"
+  },
+  {
+    "id": "distance-mona-lisa",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur de la Joconde ?",
+    "answer": 0.77,
+    "unit": "m",
+    "fact": "Les visiteurs du Louvre découvrent souvent avec surprise un tableau si petit.",
+    "source": "Musée du Louvre"
+  },
+  {
+    "id": "distance-dna-cell",
+    "category": "distance",
+    "prompt": "Quelle longueur mesure l'ADN d'une seule cellule humaine, une fois déroulé ?",
+    "answer": 2,
+    "unit": "m",
+    "fact": "Tout ça replié dans un noyau de quelques millièmes de millimètre.",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "id": "distance-tallest-man",
+    "category": "distance",
+    "prompt": "Quelle taille mesurait l'homme le plus grand de l'histoire ?",
+    "answer": 2.72,
+    "unit": "m",
+    "fact": "Robert Wadlow chaussait du 75 et grandissait encore à sa mort, à 22 ans.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "distance-giraffe",
+    "category": "distance",
+    "prompt": "Quelle hauteur peut atteindre une girafe mâle adulte ?",
+    "answer": 5.5,
+    "unit": "m",
+    "fact": "Son cou ne compte pourtant que sept vertèbres, comme le tien.",
+    "source": "Britannica"
+  },
+  {
+    "id": "distance-long-jump",
+    "category": "distance",
+    "prompt": "Quel est le record du monde masculin de saut en longueur ?",
+    "answer": 8.95,
+    "unit": "m",
+    "fact": "Mike Powell le détient depuis 1991 : le plus vieux record de l'athlétisme masculin en saut.",
+    "source": "World Athletics"
+  },
+  {
+    "id": "distance-tennis-court",
+    "category": "distance",
+    "prompt": "Quelle est la longueur d'un court de tennis ?",
+    "answer": 23.77,
+    "unit": "m",
+    "fact": "Ses dimensions bizarres en mètres viennent des mesures anglaises d'origine, en pieds.",
+    "source": "Fédération internationale de tennis"
+  },
+  {
+    "id": "distance-blue-whale",
+    "category": "distance",
+    "prompt": "Quelle longueur mesurait la plus grande baleine bleue jamais mesurée ?",
+    "answer": 30,
+    "unit": "m",
+    "fact": "Son cœur a la taille d'une petite voiture et pèse autour de 180 kg.",
+    "source": "Britannica"
+  },
+  {
+    "id": "distance-liberty",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur de la statue de la Liberté, sans son socle ?",
+    "answer": 46,
+    "unit": "m",
+    "fact": "Son index mesure à lui seul 2,4 m de long.",
+    "source": "National Park Service"
+  },
+  {
+    "id": "distance-a380",
+    "category": "distance",
+    "prompt": "Quelle est la largeur d'un Airbus A380, d'un bout d'aile à l'autre ?",
+    "answer": 79.75,
+    "unit": "m",
+    "fact": "Les aéroports ont dû élargir des pistes et des portes pour l'accueillir.",
+    "source": "Airbus"
+  },
+  {
+    "id": "distance-tallest-tree",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur du plus grand arbre vivant connu ?",
+    "answer": 116,
+    "unit": "m",
+    "fact": "Ce séquoia, Hyperion, est caché en Californie : son emplacement est tenu secret.",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "distance-kheops",
+    "category": "distance",
+    "prompt": "Quelle était la hauteur d'origine de la pyramide de Khéops ?",
+    "answer": 146.6,
+    "unit": "m",
+    "fact": "Elle est restée le plus haut monument humain pendant près de 4 000 ans.",
+    "source": "Britannica"
+  },
+  {
+    "id": "distance-eiffel",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur de la tour Eiffel, antennes comprises ?",
+    "answer": 330,
+    "unit": "m",
+    "fact": "L'été, le métal dilaté la fait grandir d'une quinzaine de centimètres.",
+    "source": "Société d'exploitation de la tour Eiffel"
+  },
+  {
+    "id": "distance-burj",
+    "category": "distance",
+    "prompt": "Quelle est la hauteur du Burj Khalifa, plus haute tour du monde ?",
+    "answer": 828,
+    "unit": "m",
+    "fact": "Au sommet, le soleil se couche quelques minutes plus tard qu'au rez-de-chaussée.",
+    "source": "Council on Tall Buildings and Urban Habitat"
+  },
+  {
+    "id": "distance-champs-elysees",
+    "category": "distance",
+    "prompt": "Quelle est la longueur de l'avenue des Champs-Élysées ?",
+    "answer": 1910,
+    "unit": "m",
+    "fact": "Le Tour de France y finit presque chaque année depuis 1975.",
+    "source": "Ville de Paris"
+  },
+  {
+    "id": "distance-millau",
+    "category": "distance",
+    "prompt": "Quelle est la longueur du viaduc de Millau ?",
+    "answer": 2460,
+    "unit": "m",
+    "fact": "Son plus haut pylône culmine à 343 m : plus haut que la tour Eiffel.",
+    "source": "Compagnie Eiffage du viaduc de Millau"
+  },
+  {
+    "id": "distance-mont-blanc",
+    "category": "distance",
+    "prompt": "Quelle est l'altitude du mont Blanc ?",
+    "answer": 4806,
+    "unit": "m",
+    "fact": "Il rétrécit ou grandit de quelques mètres selon la neige accumulée au sommet.",
+    "source": "IGN"
+  },
+  {
+    "id": "distance-mariana",
+    "category": "distance",
+    "prompt": "Quelle est la profondeur du point le plus profond de l'océan (fosse des Mariannes) ?",
+    "answer": 10935,
+    "unit": "m",
+    "fact": "Il a fallu attendre 2012 pour qu'un homme seul y redescende : James Cameron.",
+    "source": "NOAA"
+  },
+  {
+    "id": "distance-baumgartner",
+    "category": "distance",
+    "prompt": "Quelle est la largeur du pas de Calais, le passage le plus étroit de la Manche, entre Douvres et le cap Gris-Nez ?",
+    "answer": 33300,
+    "unit": "m",
+    "fact": "Le premier à le traverser à la nage, Matthew Webb, a mis près de 22 heures, en 1875.",
+    "source": "Britannica"
+  },
+  {
+    "id": "distance-channel-tunnel",
+    "category": "distance",
+    "prompt": "Quelle est la longueur du tunnel sous la Manche ?",
+    "answer": 50450,
+    "unit": "m",
+    "fact": "Les équipes française et britannique se sont rejointes en 1990 avec moins de 40 cm d'écart.",
+    "source": "Getlink (Eurotunnel)"
+  },
+  {
+    "id": "distance-suez",
+    "category": "distance",
+    "prompt": "Quelle est la longueur du canal de Suez ?",
+    "answer": 193300,
+    "unit": "m",
+    "fact": "En 2021, un seul porte-conteneurs coincé l'a bloqué six jours.",
+    "source": "Autorité du canal de Suez"
+  },
+  {
+    "id": "distance-iss-altitude",
+    "category": "distance",
+    "prompt": "À quelle altitude moyenne la Station spatiale internationale tourne-t-elle autour de la Terre ?",
+    "answer": 400000,
+    "unit": "m",
+    "fact": "En voiture à la verticale, à 130 km/h, tu y serais en trois heures.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-seine",
+    "category": "distance",
+    "prompt": "Quelle est la longueur de la Seine ?",
+    "answer": 777000,
+    "unit": "m",
+    "fact": "Elle prend sa source sur un terrain qui appartient... à la Ville de Paris.",
+    "source": "Sandre"
+  },
+  {
+    "id": "distance-moon-diam",
+    "category": "distance",
+    "prompt": "Quel est le diamètre de la Lune ?",
+    "answer": 3474800,
+    "unit": "m",
+    "fact": "C'est à peu près la largeur de l'Australie.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-nile",
+    "category": "distance",
+    "prompt": "Quelle est la longueur du Nil ?",
+    "answer": 6650000,
+    "unit": "m",
+    "fact": "L'Amazone lui dispute le titre de plus long fleuve, selon où l'on place sa source.",
+    "source": "Britannica"
+  },
+  {
+    "id": "distance-earth-diam",
+    "category": "distance",
+    "prompt": "Quel est le diamètre de la Terre ?",
+    "answer": 12742000,
+    "unit": "m",
+    "fact": "Elle est un peu aplatie : 43 km de moins d'un pôle à l'autre.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-great-wall",
+    "category": "distance",
+    "prompt": "Quelle est la longueur totale de la Grande Muraille de Chine, tous tronçons compris ?",
+    "answer": 21196000,
+    "unit": "m",
+    "fact": "Et non, elle n'est pas visible à l'œil nu depuis l'espace.",
+    "source": "Administration d'État du patrimoine culturel de Chine"
+  },
+  {
+    "id": "distance-earth-circ",
+    "category": "distance",
+    "prompt": "Quelle distance ferais-tu en faisant le tour de la Terre par l'équateur ?",
+    "answer": 40075000,
+    "unit": "m",
+    "fact": "Un savant grec l'avait déjà calculée presque juste, il y a 2 200 ans.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-jupiter-diam",
+    "category": "distance",
+    "prompt": "Quel est le diamètre de Jupiter ?",
+    "answer": 142984000,
+    "unit": "m",
+    "fact": "On pourrait aligner 11 Terres côte à côte sur sa largeur.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-earth-moon",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre la Terre et la Lune ?",
+    "answer": 384400000,
+    "unit": "m",
+    "fact": "Toutes les planètes du système solaire tiendraient dans cet espace.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-iss-day",
+    "category": "distance",
+    "prompt": "Quelle distance parcourt la Station spatiale internationale en une journée ?",
+    "answer": 660000000,
+    "unit": "m",
+    "fact": "Ses astronautes voient 16 levers de soleil par jour.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-sun-diam",
+    "category": "distance",
+    "prompt": "Quel est le diamètre du Soleil ?",
+    "answer": 1392700000,
+    "unit": "m",
+    "fact": "On pourrait y faire entrer environ 1,3 million de Terres.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-earth-day-orbit",
+    "category": "distance",
+    "prompt": "Quelle distance parcourt la Terre autour du Soleil en une journée ?",
+    "answer": 2570000000,
+    "unit": "m",
+    "fact": "Tu files à plus de 100 000 km/h sans rien sentir.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-light-minute",
+    "category": "distance",
+    "prompt": "Quelle distance parcourt la lumière en une minute ?",
+    "answer": 17990000000,
+    "unit": "m",
+    "fact": "La lumière du Soleil que tu vois est partie il y a un peu plus de 8 minutes.",
+    "source": "Bureau international des poids et mesures"
+  },
+  {
+    "id": "distance-venus-closest",
+    "category": "distance",
+    "prompt": "Quelle distance nous sépare de Vénus quand elle passe au plus près de la Terre ?",
+    "answer": 38000000000,
+    "unit": "m",
+    "fact": "C'est notre plus proche voisine, et l'objet le plus brillant du ciel après la Lune.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-mercury-sun",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre Mercure et le Soleil ?",
+    "answer": 57900000000,
+    "unit": "m",
+    "fact": "Une année sur Mercure dure 88 jours, mais d'un lever de soleil au suivant, il s'écoule 176 jours.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-earth-sun",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre la Terre et le Soleil ?",
+    "answer": 149600000000,
+    "unit": "m",
+    "fact": "En voiture à 130 km/h, il faudrait plus de 130 ans pour l'atteindre.",
+    "source": "Union astronomique internationale"
+  },
+  {
+    "id": "distance-mars-sun",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre Mars et le Soleil ?",
+    "answer": 227900000000,
+    "unit": "m",
+    "fact": "Un message radio vers un rover martien met jusqu'à 22 minutes pour arriver.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-earth-orbit",
+    "category": "distance",
+    "prompt": "Quelle distance parcourt la Terre en un tour complet autour du Soleil ?",
+    "answer": 940000000000,
+    "unit": "m",
+    "fact": "À chaque anniversaire, tu as fait ce voyage une fois de plus.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-saturn-sun",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre Saturne et le Soleil ?",
+    "answer": 1433500000000,
+    "unit": "m",
+    "fact": "Saturne est si peu dense qu'elle flotterait dans une baignoire géante.",
+    "source": "NASA"
+  },
+  {
+    "id": "distance-neptune-sun",
+    "category": "distance",
+    "prompt": "Quelle est la distance moyenne entre Neptune et le Soleil ?",
+    "answer": 4495000000000,
+    "unit": "m",
+    "fact": "Depuis sa découverte en 1846, elle n'a bouclé qu'un seul tour du Soleil.",
+    "source": "NASA"
+  }
+]
